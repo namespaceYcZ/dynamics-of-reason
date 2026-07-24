@@ -11,26 +11,27 @@
 
 1997年，我有幸在哈佛大学发表*怀特海讲座*（Whitehead Lecture）#trans-note[哈佛大学哲学系的高规格特邀讲座，以英国数学家、哲学家*阿尔弗雷德·诺斯·怀特海*（Alfred North Whitehead, 1861–1947）命名。怀特海与罗素合著《数学原理》（*Principia Mathematica*），后转向过程哲学，晚年在哈佛任教。受邀发表怀特海讲座是英美哲学界的重要学术荣誉。]，并在*美国哲学学会中部分会*（Central Division of the American Philosophical Association）上作*主席致辞*（Presidential Address）#trans-note[*美国哲学学会（APA）*是全美最大的专业哲学学术组织，分为三个分会：太平洋分会（Pacific）、中部分会（Central）和东部分会（Eastern）。每个分会每年举行年会，*分会主席致辞*（Presidential Address）是年会中最受瞩目的学术演讲，由该分会当年的主席本人发表。Friedman 能够担任中部分会主席并发表此致辞，表明他在美国哲学界的资深地位。]。在这两个场合，我都选择了"*哲学自然主义*"这一主题〔Friedman (1997a)〕#trans-note[这篇论文后来发表在 *Proceedings and Addresses of the American Philosophical Association* 上。"哲学自然主义"在这里主要指奎因一脉的立场：哲学没有独立于科学之外的特殊方法或特殊地位，哲学不过是科学的延续。Friedman 在此文中对这一立场发起了正面攻击。]，我的目标尤其在于：以一种#neo_kantian()的（且历史化的）相对化先验原则观念，来攻击当代哲学界赞成奎因式认识论整体论的共识。与此同时，我发现自己由此还能够发展出一种关于科学哲学相对于#trans-note[原文*vis-à-vis*是一个法语借词，在英文学术写作中常见，意思是"相对于……而言"或"面对……"。此处"scientific philosophy vis-à-vis the sciences"指"科学哲学*相对于*科学而言"的作用。]科学之特殊作用的新的积极观念——科学哲学是一个独特的*元科学思想或话语层面*（meta-scientific level）#trans-note["元"（meta-）是一个关键前缀。"元科学"指的不是在科学内部进行研究，而是站在科学之上或之外，对科学的概念结构、方法前提、框架条件进行反思。Friedman 在这里赋予哲学以"元科学"的特殊地位，正是为了对抗奎因式自然主义——后者否认哲学相对于科学有任何特殊地位。*哲学*（科学哲学）在元科学层面提供概念资源，使得框架间的理性过渡成为可能。Friedman 最常引用的历史案例是：*马赫（Mach）、彭加勒（Poincaré）、赫尔姆霍兹（Helmholtz）*等人在19世纪末20世纪初对空间、时间、运动等概念的哲学批判，实际上为*爱因斯坦*发展相对论提供了不可缺少的概念准备。没有这些哲学家对牛顿绝对时空的元科学批判，爱因斯坦的革命很难以那种形式被理性地建构出来。这样，哲学便不是科学的旁观者，也不是科学的裁判者，而是在革命发生时*从元层面参与理性过渡*的不可或缺的角色。这是 Friedman 本书"*哲学的角色*"（Part Two, Chapter 4）的核心论点。]，它对科学内部发生的激进概念革命（库恩所谓的"范式转换"）的理性进程做出自身不可或缺的贡献。我在第二篇论文"*论科学哲学的观念*"（"On the Idea of a Scientific Philosophy"）中进一步发展了这些想法，并先后在以下场合宣读了这篇论文：西北大学"*科学与人之界定*"（Science and Defining the Human）系列讲座、华盛顿大学*斯泰斯讲座*（Stice Lecture）、加州大学河滨分校*杰出访问学者*讲座、伦敦大学*雅各布森讲座*（Jacobson Lecture）、艾奥瓦大学*霍尔讲座*（Hall Lecture），以及佛罗里达州立大学*韦克迈斯特讲座*（Werkmeister Lecture）#trans-note[这一段也清楚地展示了本书的"孕育过程"：1. *1997年*的"Philosophical Naturalism"是第一篇核心论文（主要是"破"——批判奎因）。2. 随后的"On the Idea of a Scientific Philosophy"是第二篇（侧重"立"——建构哲学的元科学角色）。3. 这两篇论文在多个高校和系列讲座中反复宣读、打磨，收到大量反馈。4. 最终汇入本书的框架：Part One 的第一讲标题正是 *"The Idea of a Scientific Philosophy"*——直接沿用了第二篇论文的标题。这说明本书并非闭门写成，而是在广泛的学术对话中逐步成型的。这一点也解释了为什么 Part Two 被命名为"讨论成果"（Fruits of Discussion）：它们确实是作者回应来自不同学术共同体的质疑和建议后的产物。]。
 
-上述后一篇论文，随后成为构成本书第一部分的*三场系列讲座*中的第一讲。在1998–1999学年，我有机会在四个不同的场合发表这一系列讲座：多伦多大学的*西蒙讲座*（Simon Lectures）、我每年例访西安大略大学（University of Western Ontario）时的讲座、普林斯顿大学的*亨佩尔讲座*（Hempel Lectures）#trans-note[这一讲座以#michael_friedman()本人的*博士导师*（我们前面在献词中讨论过的#hempel())）命名。#michael_friedman()作为#hempel()的门生，回到自己求学的母校、在以恩师命名的讲坛上宣读自己的成熟工作——这本身就是一个具有深刻*学术传承象征意义*的场景。]，以及斯坦福大学的*#kant()讲座*（Kant Lectures）。我尤其欣慰的是有机会在普林斯顿发表#hempel()讲座：一方面，因为我在20世纪70年代初曾是亨佩尔在普林斯顿的学生；另一方面，因为我尝试将#kuhn()式观念同#logical_empiricism()的某些方面结合起来的努力，在某种意义上，与#hempel()在其哲学生涯后期——从70年代初一直延续到90年代初——所进行的一种平行调适工作是*互补的*〔参见#hempel()这一时期的相关论文，收入 Hempel (2000)〕。#hempel()当时关注的，是#kuhn()思想中*实用主义的和反形式主义的*维度与*#otto_neurath()*（Otto Neurath）#trans-note[维也纳学派的核心成员之一，与#carnap()、石里克并列。但他在维也纳学派内部代表了一种*更加自然主义、更加实用主义、更加反形式主义*的路线：他反对把哲学过度形式化；强调科学知识是一个可修正的整体（"#neurath()之船"的著名比喻：我们只能在航行中修补船只，无法把它拖上岸从头造起）；他的这一整体论思想，实际上是*#quine()整体论的重要先驱*。]那种*自然主义版本的#logical_empiricism()*之间的亲缘性——亨佩尔本人早年在柏林和维也纳时期便曾受到#neurath()的重要影响；而我则试图利用*kuhn()的科学范式概念*与*#carnap()的语言框架概念*#trans-note[与#neurath()路线相对，#carnap()代表的是#logical_empiricism()中*更加形式主义、更加分层结构化*的路线：强调科学理论的形式重建；区分"框架内部问题"与"关于框架本身的问题"；保留了某种"分析先验"的空间。]之间的亲缘性，把科学认识论推向一个*较少实用主义自然主义、而更加#kantian()*的方向。#trans-note[
-  #logical_empiricism()传统内部的两条路线
+#let node(body) = box(inset: 6pt, stroke: none, align(center, body))
 
-  ```
-                        #logical_empiricism()
-                            │
-                ┌───────────┴───────────┐
-                │                       │
-           #neurath()路线              #carnap()路线
-        （实用主义、自然主义、    （形式主义、框架分层、
-          反形式主义、整体论）      保留"分析先验"）
-                │                       │
-                ↓                       ↓
-          #quine()整体论               #friedman()"动态先验论"
-        （彻底放弃先验性）        （相对化、历史化的先验性）
-                │                       │
-                ↓                       ↓
-          #hempel()晚年的调和        本书的方案
-        （通过#neurath()接受#kuhn()）    （通过#carnap()接受#kuhn()）
-  ```
+上述后一篇论文，随后成为构成本书第一部分的*三场系列讲座*中的第一讲。在1998–1999学年，我有机会在四个不同的场合发表这一系列讲座：多伦多大学的*西蒙讲座*（Simon Lectures）、我每年例访西安大略大学（University of Western Ontario）时的讲座、普林斯顿大学的*亨佩尔讲座*（Hempel Lectures）#trans-note[这一讲座以#michael_friedman()本人的*博士导师*（我们前面在献词中讨论过的#hempel())）命名。#michael_friedman()作为#hempel()的门生，回到自己求学的母校、在以恩师命名的讲坛上宣读自己的成熟工作——这本身就是一个具有深刻*学术传承象征意义*的场景。]，以及斯坦福大学的*#kant()讲座*（Kant Lectures）。我尤其欣慰的是有机会在普林斯顿发表#hempel()讲座：一方面，因为我在20世纪70年代初曾是亨佩尔在普林斯顿的学生；另一方面，因为我尝试将#kuhn()式观念同#logical_empiricism()的某些方面结合起来的努力，在某种意义上，与#hempel()在其哲学生涯后期——从70年代初一直延续到90年代初——所进行的一种平行调适工作是*互补的*〔参见#hempel()这一时期的相关论文，收入 Hempel (2000)〕。#hempel()当时关注的，是#kuhn()思想中*实用主义的和反形式主义的*维度与*#otto_neurath()*（Otto Neurath）#trans-note[维也纳学派的核心成员之一，与#carnap()、石里克并列。但他在维也纳学派内部代表了一种*更加自然主义、更加实用主义、更加反形式主义*的路线：他反对把哲学过度形式化；强调科学知识是一个可修正的整体（"#neurath()之船"的著名比喻：我们只能在航行中修补船只，无法把它拖上岸从头造起）；他的这一整体论思想，实际上是*#quine()整体论的重要先驱*。]那种*自然主义版本的#logical_empiricism()*之间的亲缘性——#hempel()本人早年在柏林和维也纳时期便曾受到#neurath()的重要影响；而我则试图利用*#kuhn()的科学范式概念*与*#carnap()的语言框架概念*#trans-note[与#neurath()路线相对，#carnap()代表的是#logical_empiricism()中*更加形式主义、更加分层结构化*的路线：强调科学理论的形式重建；区分"框架内部问题"与"关于框架本身的问题"；保留了某种"分析先验"的空间。]之间的亲缘性，把科学认识论推向一个*较少实用主义自然主义、而更加#kantian()*的方向。#trans-note[
+  #grid(
+    columns: (1fr, 1fr),
+    rows: auto,
+    gutter: auto,
+    align: center,
+    grid.cell(colspan: 2, node[[#logical_empiricism()]]),
+    grid.cell(colspan: 2, line(length: 100%, stroke: 1pt)),
+    node[#neurath()路线 \ (实用主义、自然主义、反形式主义、整体论)],
+    node[#carnap()路线 \ (形式主义、框架分层、保留"分析先验")],
+    node[↓],
+    node[↓],
+    node[#quine()整体论（彻底放弃先验性）],
+    node[#friedman()"动态先验论"（相对化、历史化的先验性）],
+    node[↓],
+    node[↓],
+    node[#hempel()晚年的调和（通过#neurath()接受#kuhn()）],
+    node[本书的方案（通过#carnap()接受#kuhn()）],
+  )
 ]
 
 最后，我还有机会在1999年6月于*哥廷根大学*（University of Göttingen）举办的*第五届哥廷根哲学讨论班*（Fifth Göttinger Philosophisches Kolloquium）#trans-note[哥廷根大学是德国历史最悠久、声望最高的大学之一，在数学、物理学史上地位尤为特殊（希尔伯特、高斯、黎曼等均在此任教或求学），也是#neo_kantian()传统的重镇之一。这个"哲学讨论班"系列有一个非常独特且严谨的学术训练模式：*不是*普通的"请一位学者来做一次报告"式讲座；而是让研究生*用一整个学年*深入研读某位在世哲学家*正在进行中*的研究工作；学年末举行*三天的*密集会议，学生逐一宣读针对该学者工作的论文，并与本人当面辩难。这种模式对应中文学术语境里可以理解为一种"*驻校研讨 + 学生批判性论文答辩式研讨会*"，其严格程度和思想强度远高于一般的巡回讲座。]上，讨论这三场讲座的思想。在这一系列讨论班中，哥廷根哲学研讨班的学生们会在一个学年中研读某位特定哲学家正在进行中的工作，随后在学年末举行为期三天的会议，学生们在会上宣读关于这项工作的论文，并与该哲学家本人进行深入讨论。在这次活动中，我提供了这三篇讲稿，连同相关材料，如 Friedman (1997a)、(1997b)、(1998) 和 (2000a)#trans-note[这些是Friedman在此前几段中提到的相关论文（"Philosophical Naturalism"、"On the Idea of a Scientific Philosophy"等及其后续），说明他把讲座讲稿连同这些"背景论文"一起提供给学生研读，以便学生能够充分把握其思想脉络。这些引用格式（年份+字母）也提示我们，本书末尾的 *References（参考文献）* 部分会列出这些具体条目。]。我对讨论班的组织者*费利克斯·米尔霍尔策*（Felix Mühlholzer）和*奥拉夫·米勒*（Olaf Müller），以及尤其是那些为我的著作撰写论文的学生们——*玛丽塔·许布纳*（Marita Hübner）、*洛伦茨·凯勒*（Lorenz Kähler）、*托比亚斯·克劳克*（Tobias Klauk）、*克里斯托夫·马特尔*（Christoph Martel）、*乌韦·罗泽*（Uwe Rose）、*托马斯·施密特*（Thomas Schmidt）、*卡斯滕·施密特-萨莫阿*（Carsten Schmidt-Samoa）、*弗兰克·切普克*（Frank Tschepke）以及*雷吉娜·文宁格*（Regina Wenninger）——深表感激。我尤其感激这种批判性的反馈，因为讲座中提出的思想很大程度上仍是*进行中的工作*（work in progress），远未凝结成最终的形态。

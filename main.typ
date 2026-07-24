@@ -179,6 +179,9 @@ III. 理性、革命与探究共同体 47
 
 // 前言
 #trans-note-cnt.update(0)
+#orig-note-cnt.update(0)
 #include "preface.typ"
 #trans-note-cnt.update(0)
+#orig-note-cnt.update(0)
+= 第一部分：讲座
 #include "the_idea_of_a_scientific_philosophy.typ"

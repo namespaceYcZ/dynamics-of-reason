@@ -55,3 +55,11 @@
     #context [原文注：]#body
   ]
 }
+#let codebox(body) = block(
+  fill: luma(245),
+  inset: 10pt,
+  radius: 4pt,
+  width: 100%,
+  font: "Courier New, monospace",
+  body,
+)
