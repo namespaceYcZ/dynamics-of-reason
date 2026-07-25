@@ -2,7 +2,8 @@
 #let friedman() = text(style: "italic", font: "KaiTi", fill: rgb("#0066cc"))[弗里德曼];
 #let immanuel_kant() = text(style: "italic", font: "KaiTi", fill: rgb("#0066cc"))[伊曼努尔·康德];
 #let kant() = text(style: "italic", font: "KaiTi", fill: rgb("#0066cc"))[康德];
-
+#let hans_reichenbach() = text(style: "italic", font: "KaiTi", fill: rgb("#0066cc"))[汉斯·赖欣巴赫];
+#let reichenbach() = text(style: "italic", font: "KaiTi", fill: rgb("#0066cc"))[赖欣巴赫];
 #let carl_gustav_hempel_complex() = text(
   style: "italic",
   font: "KaiTi",

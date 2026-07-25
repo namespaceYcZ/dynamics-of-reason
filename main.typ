@@ -26,12 +26,6 @@
   numbering: "1", // 页码格式
   number-align: center, // 页码位置：left / center / right
 )
-// 封面
-Dynamics of Reason
-
-Michael Friedman
-
-————————————————————
 
 = #dynamics_of_reason()
 
