@@ -53,3 +53,7 @@
 #let kantian() = text(style: "italic", font: "SimHei")[康德主义];
 #let neo_kantian() = text(style: "italic", font: "SimHei")[新康德主义];
 #let newtonian() = text(style: "italic", font: "SimHei")[牛顿式的];
+#let transcendental() = text(style: "italic", font: "SimHei")[超验的];
+#let transcendental_logic() = text(style: "italic", font: "SimHei")[超验哲学];
+#let a_priori() = text(style: "italic", font: "SimHei")[先验的];
+#let a_priori_n() = text(style: "italic", font: "SimHei")[先验];
