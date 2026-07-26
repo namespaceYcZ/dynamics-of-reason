@@ -4,8 +4,8 @@
 = 前言
 
 在过去的二十年里，我一直致力于历史研究，探讨从#kant()（18世纪末）到#logical_empiricism()（20世纪初）#trans-note[
-  === *#logical_empiricism()*
-  （通常与“逻辑实证主义”混用，但前者更常用于指代该运动在20世纪30年代成熟期及流亡美国后的发展）是20世纪上半叶最具影响力的哲学运动。它主要由20世纪20年代的*维也纳学派*（石里克、#carnap()、#neurath()等）和*柏林学派*（#reichenbach()、#hempel()等）发起。
+  *#logical_empiricism()*
+  （通常与“逻辑实证主义”混用，但前者更常用于指代该运动在20世纪30年代成熟期及流亡美国后的发展）是20世纪上半叶最具影响力的哲学运动。它主要由20世纪20年代的*维也纳学派*（#schlick()、#carnap()、#neurath()等）和*柏林学派*（#reichenbach()、#hempel()等）发起。
 
   它的核心野心可以用一句话概括：*用现代数理逻辑的工具，彻底清理哲学中的形而上学，把哲学改造成科学的“逻辑句法”或“科学逻辑”。*
 
@@ -22,29 +22,29 @@
   4. *哲学的任务：理性重建（Rational Reconstruction）*：
     哲学不再提供关于世界的实质性知识。哲学的唯一合法任务是“科学逻辑”（*Wissenschaftslogik*）：澄清科学概念、分析科学理论的逻辑结构。
 
-    === 关键人物
+  关键人物
 
-    ==== 1. 精神先驱（19世纪末到20世纪初）
+  1. 精神先驱（19世纪末到20世纪初）
   他们为#logical_empiricism()提供了弹药。
   *恩斯特·马赫（Ernst Mach）*：极端经验主义者。他主张科学只能描述感觉经验，拒绝任何不可观察的实体（如绝对时空）。维也纳学派最初就叫“恩斯特·马赫协会”，他为该运动提供了*“经验主义”*的底色。
   *#henri_poincare()（Henri Poincaré）*：他提出*“约定论”*。他证明了几何学公理既不是经验事实，也不是绝对真理，而是科学家为了方便而自由选择的“约定”。这直接启发了卡尔纳普：科学的基础原则只是一种“语言框架规则”。
   *#hermann_von_helmholtz()（Helmholtz）*：试图在生理学和物理学基础上修正康德。他代表了科学家接管哲学认识论的先驱，也是“科学哲学”传统的奠基人。
 
-  ==== 2. 核心架构师（20世纪20-40年代）
+  2. 核心架构师（20世纪20-40年代）
   他们建立了#logical_empiricism()的大厦。
   *#rudolf_carnap()（Rudolf Carnap）*：#logical_empiricism()的灵魂人物，也是#friedman()最看重的人。他提出了*“语言框架”（Linguistic Framework）*理论。他认为，科学理论在内部有真假可言，但选择哪个理论框架（比如选欧氏几何还是非欧几何），没有真假，只有“方便与否”的实用考量。*Friedman 的“相对化先验”正是基于卡尔纳普的框架理论改造而来的。*
   *#otto_neurath()（Otto Neurath）*：维也纳学派的左翼，主张物理主义和自然主义。他反对#carnap()那种僵硬的逻辑分层，提出著名的“#neurath()之船”（我们只能在海上修船，没有绝对的立足点）。*他是整体论的先驱，也是后来美国自然主义（奎因）的引路人。*
   *#carl_gustav_hempel()（Carl G. Hempel）*：#friedman()的恩师，柏林学派成员。他将#logical_empiricism()带到美国，建立了“科学解释的逻辑模型”。但他晚年受到#kuhn()冲击后，选择*向纽拉特的自然主义/实用主义路线妥协*。
 
-  ==== 3. 掘墓人与挑战者（20世纪50-60年代）
+  3. 掘墓人与挑战者（20世纪50-60年代）
   他们摧毁了#logical_empiricism()的传统大厦。
   *#w_v_quine()（W. V. Quine）*：#logical_empiricism()的“终结者”。他在1951年发表《经验主义的两个教条》，*彻底摧毁了卡尔纳普赖以建构大厦的“分析/综合二分法”*。#quine()提出“整体论”：不存在什么纯粹的语言规则框架，所有知识（从逻辑规律到量子力学再到日常经验）都在同一张“信念之网”里，只要经验需要，哪怕逻辑定律也是可以修改的。*这就彻底取消了“先验性”，也取消了哲学相对于科学的特殊地位（即哲学自然主义化）。*
   *#thomas_kuhn()（Thomas Kuhn）*：历史主义的挑战者。#logical_empiricism()认为科学是不断累积进步的逻辑体系；而库恩指出，历史上真实的科学是“范式转换”和“科学革命”，新旧理论之间是“不可通约”的（Incommensurability），没有纯粹中立的逻辑标准来评判它们。
 
-  ==== 4. 幽灵与源头
+  4. 幽灵与源头
   *#immanuel_kant()（Immanuel Kant）*：所有人都在回应他。他提出了“先天综合判断”（科学必须依赖某种先验的框架）。#logical_empiricism()试图*用逻辑和约定*替换他的先验；#quine()试图*彻底消灭*他的先验；库恩则用历史主义的范式展示了*一种不断变动的“社会化先验”*。
 
-  === 本书的*战略地图*：
+  本书的*战略地图*：
 
   1. *危机*：#carnap()的逻辑大厦被#quine()（逻辑上）和#kuhn()（历史上）双重摧毁了。当今哲学界（在1990年代）的共识是：#quine()赢了，先验框架不存在了，哲学沦为科学的附庸（自然主义）。
   2. *恩师的歧途*：连他的导师#hempel()，面对危机，都退让到了#neurath()—#quine()的自然主义路线上，试图把#kuhn()解释成一种实用的整体论。
@@ -61,7 +61,7 @@
 
 #let node(body) = box(inset: 6pt, stroke: none, align(center, body))
 
-上述后一篇论文，随后成为构成本书第一部分的*三场系列讲座*中的第一讲。在1998–1999学年，我有机会在四个不同的场合发表这一系列讲座：多伦多大学的*西蒙讲座*（Simon Lectures）、我每年例访西安大略大学（University of Western Ontario）时的讲座、普林斯顿大学的*亨佩尔讲座*（Hempel Lectures）#trans-note[这一讲座以#michael_friedman()本人的*博士导师*（我们前面在献词中讨论过的#hempel())）命名。#michael_friedman()作为#hempel()的门生，回到自己求学的母校、在以恩师命名的讲坛上宣读自己的成熟工作——这本身就是一个具有深刻*学术传承象征意义*的场景。]，以及斯坦福大学的*#kant()讲座*（Kant Lectures）。我尤其欣慰的是有机会在普林斯顿发表#hempel()讲座：一方面，因为我在20世纪70年代初曾是亨佩尔在普林斯顿的学生；另一方面，因为我尝试将#kuhn()式观念同#logical_empiricism()的某些方面结合起来的努力，在某种意义上，与#hempel()在其哲学生涯后期——从70年代初一直延续到90年代初——所进行的一种平行调适工作是*互补的*〔参见#hempel()这一时期的相关论文，收入 Hempel (2000)〕。#hempel()当时关注的，是#kuhn()思想中*实用主义的和反形式主义的*维度与*#otto_neurath()*（Otto Neurath）#trans-note[维也纳学派的核心成员之一，与#carnap()、石里克并列。但他在维也纳学派内部代表了一种*更加自然主义、更加实用主义、更加反形式主义*的路线：他反对把哲学过度形式化；强调科学知识是一个可修正的整体（"#neurath()之船"的著名比喻：我们只能在航行中修补船只，无法把它拖上岸从头造起）；他的这一整体论思想，实际上是*#quine()整体论的重要先驱*。]那种*自然主义版本的#logical_empiricism()*之间的亲缘性——#hempel()本人早年在柏林和维也纳时期便曾受到#neurath()的重要影响；而我则试图利用*#kuhn()的科学范式概念*与*#carnap()的语言框架概念*#trans-note[与#neurath()路线相对，#carnap()代表的是#logical_empiricism()中*更加形式主义、更加分层结构化*的路线：强调科学理论的形式重建；区分"框架内部问题"与"关于框架本身的问题"；保留了某种"分析先验"的空间。]之间的亲缘性，把科学认识论推向一个*较少实用主义自然主义、而更加#kantian()*的方向。#trans-note[
+上述后一篇论文，随后成为构成本书第一部分的*三场系列讲座*中的第一讲。在1998–1999学年，我有机会在四个不同的场合发表这一系列讲座：多伦多大学的*西蒙讲座*（Simon Lectures）、我每年例访西安大略大学（University of Western Ontario）时的讲座、普林斯顿大学的*亨佩尔讲座*（Hempel Lectures）#trans-note[这一讲座以#michael_friedman()本人的*博士导师*（我们前面在献词中讨论过的#hempel())）命名。#michael_friedman()作为#hempel()的门生，回到自己求学的母校、在以恩师命名的讲坛上宣读自己的成熟工作——这本身就是一个具有深刻*学术传承象征意义*的场景。]，以及斯坦福大学的*#kant()讲座*（Kant Lectures）。我尤其欣慰的是有机会在普林斯顿发表#hempel()讲座：一方面，因为我在20世纪70年代初曾是亨佩尔在普林斯顿的学生；另一方面，因为我尝试将#kuhn()式观念同#logical_empiricism()的某些方面结合起来的努力，在某种意义上，与#hempel()在其哲学生涯后期——从70年代初一直延续到90年代初——所进行的一种平行调适工作是*互补的*〔参见#hempel()这一时期的相关论文，收入 Hempel (2000)〕。#hempel()当时关注的，是#kuhn()思想中*实用主义的和反形式主义的*维度与*#otto_neurath()*（Otto Neurath）#trans-note[维也纳学派的核心成员之一，与#carnap()、#schlick()并列。但他在维也纳学派内部代表了一种*更加自然主义、更加实用主义、更加反形式主义*的路线：他反对把哲学过度形式化；强调科学知识是一个可修正的整体（"#neurath()之船"的著名比喻：我们只能在航行中修补船只，无法把它拖上岸从头造起）；他的这一整体论思想，实际上是*#quine()整体论的重要先驱*。]那种*自然主义版本的#logical_empiricism()*之间的亲缘性——#hempel()本人早年在柏林和维也纳时期便曾受到#neurath()的重要影响；而我则试图利用*#kuhn()的科学范式概念*与*#carnap()的语言框架概念*#trans-note[与#neurath()路线相对，#carnap()代表的是#logical_empiricism()中*更加形式主义、更加分层结构化*的路线：强调科学理论的形式重建；区分"框架内部问题"与"关于框架本身的问题"；保留了某种"分析先验"的空间。]之间的亲缘性，把科学认识论推向一个*较少实用主义自然主义、而更加#kantian()*的方向。#trans-note[
   #grid(
     columns: (1fr, 1fr),
     rows: auto,
@@ -88,11 +88,12 @@
 
 在哈佛大学，我尤其感谢来自*斯坦利·卡维尔*（Stanley Cavell）、*沃伦·戈德法布*（Warren Goldfarb）、*克里斯汀·科尔斯加德*（Christine Korsgaard）、*蒂姆·莫德林*（Tim Maudlin）、*希拉里·普特南*（Hilary Putnam）和*托马斯·斯坎伦*（Thomas Scanlon）的评论；在多伦多大学，感谢*詹姆斯·罗伯特·布朗*（James Robert Brown）和*伊恩·哈金*（Ian Hacking）；在西安大略大学，感谢*威廉·德莫普洛斯*（William Demopoulos）、*罗伯特·迪萨莱*（Robert DiSalle）、*威廉·哈珀*（William Harper）、*韦恩·迈尔沃德*（Wayne Myrvold）、*约翰·尼古拉斯*（John Nicholas）和*伊塔马尔·皮托夫斯基*（Itamar Pitowsky）；在普林斯顿，感谢*弗兰克·阿恩策纽斯*（Frank Arntzenius）、*戈登·贝洛特*（Gordon Belot）、*保罗·贝纳塞拉夫*（Paul Benacerraf）、*约翰·伯吉斯*（John Burgess）、*理查德·杰弗里*（Richard Jeffrey）、*马克·约翰斯顿*（Mark Johnston）、*吉迪恩·罗森*（Gideon Rosen）和*巴斯·范·弗拉森*（Bas van Fraassen）；在斯坦福，感谢*迈克尔·布拉特曼*（Michael Bratman）、*埃里克·库里尔*（Erik Curiel）、*约翰·埃切门迪*（John Etchemendy）、*所罗门·费弗曼*（Solomon Feferman）、*彼得·戈德弗雷-史密斯*（Peter Godfrey-Smith）、*亚伊尔·古特曼*（Yair Guttmann）、*理查德·罗蒂*（Richard Rorty）、*帕特里克·萨佩斯*（Patrick Suppes）和*肯尼思·泰勒*（Kenneth Taylor）。
 
-此外，我还要感谢*亨利·艾利森*（Henry Allison）、*弗雷德里克·拜泽*（Frederick Beiser）、*多梅尼科·贝尔托洛尼·梅利*（Domenico Bertoloni Meli）、*保罗·博戈西安*（Paul Boghossian）、*威廉·布斯*（William Boos）、*泰勒·伯奇*（Tyler Burge）、*约翰·卡里埃罗*（John Carriero）、*安德烈·卡鲁斯*（Andre Carus）、*唐纳德·戴维森*（Donald Davidson）、*迈克尔·迪克森*（Michael Dickson）、*马修·弗兰克*（Matthew Frank）、*哈特里·菲尔德*（Hartry Field）、*阿瑟·法因*（Arthur Fine）、*艾伦·加比*（Alan Gabbey）、*阿尼尔·古普塔*（Anil Gupta）、*迈克尔·海德尔贝格*（Michael Heidelberger）、*戴维·卡普兰*（David Kaplan）、*诺蕾塔·科特格*（Noretta Koertge）、*马克·朗格*（Mark Lange）、*伊丽莎白·劳埃德*（Elisabeth Lloyd）、*埃德温·麦坎*（Edwin McCann）、*托马斯·内格尔*（Thomas Nagel）、*威廉·纽曼*（William Newman）、*卡尔文·诺莫尔*（Calvin Normore）、*戴维·帕皮诺*（David Papineau）、*保罗·帕里尼*（Paolo Parrini）、*保罗·波伊曼*（Paul Pojman）、*艾伦·理查森*（Alan Richardson）、*西蒙·桑德斯*（Simon Saunders）、*斯蒂芬·希弗*（Stephen Schiffer）、*理查德·索伦森*（Richard Sorrenson）、*巴里·斯特劳德*（Barry Stroud）、*丹尼尔·萨瑟兰*（Daniel Sutherland）、*威廉·塔尔博特*（William Talbott）、*斯科特·塔诺纳*（Scott Tanona）、*卡罗尔·沃勒*（Carol Voeller）、*迈克尔·威廉斯*（Michael Williams）、*马克·威尔逊*（Mark Wilson）、*拉斯穆斯·温瑟*（Rasmus Winther）、*约翰·沃勒尔*（John Worrall），以及一如既往地感谢*格拉西耶拉·德·皮耶里斯*（Graciela De Pierris）。最后，我要感谢*詹姆斯·马廷利*（James Mattingly）为编制索引所做的工作。#trans-note[== 重要人名背景简注
+此外，我还要感谢*亨利·艾利森*（Henry Allison）、*弗雷德里克·拜泽*（Frederick Beiser）、*多梅尼科·贝尔托洛尼·梅利*（Domenico Bertoloni Meli）、*保罗·博戈西安*（Paul Boghossian）、*威廉·布斯*（William Boos）、*泰勒·伯奇*（Tyler Burge）、*约翰·卡里埃罗*（John Carriero）、*安德烈·卡鲁斯*（Andre Carus）、*唐纳德·戴维森*（Donald Davidson）、*迈克尔·迪克森*（Michael Dickson）、*马修·弗兰克*（Matthew Frank）、*哈特里·菲尔德*（Hartry Field）、*阿瑟·法因*（Arthur Fine）、*艾伦·加比*（Alan Gabbey）、*阿尼尔·古普塔*（Anil Gupta）、*迈克尔·海德尔贝格*（Michael Heidelberger）、*戴维·卡普兰*（David Kaplan）、*诺蕾塔·科特格*（Noretta Koertge）、*马克·朗格*（Mark Lange）、*伊丽莎白·劳埃德*（Elisabeth Lloyd）、*埃德温·麦坎*（Edwin McCann）、*托马斯·内格尔*（Thomas Nagel）、*威廉·纽曼*（William Newman）、*卡尔文·诺莫尔*（Calvin Normore）、*戴维·帕皮诺*（David Papineau）、*保罗·帕里尼*（Paolo Parrini）、*保罗·波伊曼*（Paul Pojman）、*艾伦·理查森*（Alan Richardson）、*西蒙·桑德斯*（Simon Saunders）、*斯蒂芬·希弗*（Stephen Schiffer）、*理查德·索伦森*（Richard Sorrenson）、*巴里·斯特劳德*（Barry Stroud）、*丹尼尔·萨瑟兰*（Daniel Sutherland）、*威廉·塔尔博特*（William Talbott）、*斯科特·塔诺纳*（Scott Tanona）、*卡罗尔·沃勒*（Carol Voeller）、*迈克尔·威廉斯*（Michael Williams）、*马克·威尔逊*（Mark Wilson）、*拉斯穆斯·温瑟*（Rasmus Winther）、*约翰·沃勒尔*（John Worrall），以及一如既往地感谢*格拉西耶拉·德·皮耶里斯*（Graciela De Pierris）。最后，我要感谢*詹姆斯·马廷利*（James Mattingly）为编制索引所做的工作。#trans-note[
+  重要人名背景简注
 
   这份名单极长，涵盖了当代英美分析哲学的多个领域。我在此仅对*与本书核心议题直接相关*的几位关键人物做简要说明：
 
-  === 哈佛大学（Harvard）
+  哈佛大学（Harvard）
 
   - *Hilary Putnam（希拉里·普特南，1926–2016）*：20世纪最重要的分析哲学家之一。他在科学哲学、心灵哲学、语言哲学、数学哲学等领域都有开创性贡献。早期是科学实在论者（提出"无奇迹论证"），后期转向内在实在论。与 Friedman 的关联在于：普特南也反对奎因式彻底自然主义，强调理性的规范性维度。
 
@@ -100,17 +101,17 @@
 
   - *Christine Korsgaard（克里斯汀·科尔斯加德）*：#kant()伦理学研究的当代领军人物。虽然她主要研究实践哲学，但#kant()哲学的整体性使得她的反馈对 Friedman 的#kant()解读也有重要价值。
 
-  === 多伦多大学（Toronto）
+    多伦多大学（Toronto）
 
   - *Ian Hacking（伊恩·哈金，1936–2023）*：科学哲学家、科学史家，以"科学实践哲学"和"历史认识论"著称。他强调科学的历史性、实验性、实践性，与 Friedman 关于科学概念历史演化的关注有共鸣，但立场更接近实用主义。
 
-  === 普林斯顿大学（Princeton）
+    普林斯顿大学（Princeton）
 
   - *Paul Benacerraf（保罗·贝纳塞拉夫）*：数学哲学的核心人物，以"贝纳塞拉夫困境"（关于数学真理与数学知识的张力）闻名。数学哲学是 Friedman 讨论"精密科学中的先验原则"时的重要案例。
 
   - *Bas van Fraassen（巴斯·范·弗拉森）*：科学哲学中"建构经验主义"（constructive empiricism）的提出者，反对科学实在论。他对科学理论结构的分析，以及对"接受"（acceptance）与"相信"（belief）的区分，与 Friedman 讨论科学框架的"采纳"有潜在关联。
 
-  === 斯坦福大学（Stanford）
+    斯坦福大学（Stanford）
 
   - *Richard Rorty（理查德·罗蒂，1931–2007）*：实用主义哲学家，以批判分析哲学传统、主张哲学的"语言学转向"之后应有"文化转向"而著称。他对"镜式心灵"与传统认识论的批判，代表了与#friedman()非常不同的后#kant()路径。#friedman() 试图复兴一种动态康德主义，而罗蒂则彻底拒绝#kant()式"先验反思"的整个计划。二人的对话非常重要。
 
@@ -118,7 +119,7 @@
 
   - *Solomon Feferman（所罗门·费弗曼，1928–2016）*：数理逻辑学家，证明论、集合论、数学基础研究的权威。与#friedman()的关联在于：逻辑与数学基础是讨论"先验原则在精密科学中的作用"时不可绕过的领域。
 
-  === 其他重要人物
+    其他重要人物
 
   - *Donald Davidson（唐纳德·戴维森，1917–2003）*：分析哲学巨匠，以"根本解释理论"、行动哲学、心灵哲学、真理论著称。他的整体论与奎因有深刻联系，但也有独特之处。他对"概念图式"（conceptual schemes）的批判，与#friedman()关于"框架"的讨论形成有趣的张力。
 
@@ -128,11 +129,11 @@
 
   - *Alan Richardson（艾伦·理查森）*：#logical_empiricism()史研究的新一代学者，与#friedman()在重新解读#carnap()等人方面有密切的学术对话。
 
-  == 这份名单的隐含信息
+  这份名单的隐含信息
 
   这份致谢名单不仅是礼节性的，它还透露了几个重要信息：
 
-  === 1. *跨领域的对话广度*
+  1. *跨领域的对话广度*
 
   名单中涵盖：
   - #kant()哲学专家（Allison, Korsgaard）
@@ -145,7 +146,7 @@
 
   这说明 Friedman 的工作虽然聚焦于科学哲学与#kant()哲学的交叉，但它触及的问题具有*跨领域的普遍重要性*——理性、客观性、概念变化、规范性等问题是整个哲学的核心关切。
 
-  === 2. *主要对话对象的分布*
+  2. *主要对话对象的分布*
 
   从地理-机构分布看：
   - 普林斯顿（Friedman母校，亨佩尔所在地）
@@ -155,7 +156,7 @@
 
   这些机构构成了当代英美科学哲学与分析哲学传统的主要学术网络。
 
-  === 3. *与反对者的对话*
+  3. *与反对者的对话*
 
   名单中既有立场相近者（如 Richardson, Carus 等同样致力于重审#logical_empiricism()的学者），也有立场相异者（如 van Fraassen 的反实在论、Rorty 的反康德主义）。Friedman 感谢所有这些人，说明他的工作是在*真诚的哲学辩论*中打磨出来的，而不是在同温层中自说自话。
 

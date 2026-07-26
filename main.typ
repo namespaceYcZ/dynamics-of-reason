@@ -20,19 +20,28 @@
 }
 #show heading.where(level: 2): it => {
   item-cnt.update(0)
-  it
+  align(center)[
+    #set text(font: "SIMHEI", size: 16pt, weight: "bold")
+    #it.body
+  ]
+  v(1em)
 }
 #set page(
   numbering: "1", // 页码格式
   number-align: center, // 页码位置：left / center / right
 )
+#align(center)[
+  #set text(font: "SIMHEI", size: 22pt, weight: "bold")
+  #dynamics_of_reason()
+]
+#align(center)[
+  #set text(font: "SIMHEI", size: 20pt, weight: "bold")
+  #michael_friedman()
+]
 
-= #dynamics_of_reason()
-
-== #michael_friedman()
 
 // 内页
-=
+
 斯坦福#kant()讲座
 
 斯坦福#kant()讲座是由斯坦福大学哲学系主办的邀请讲座系列。
@@ -177,5 +186,8 @@ III. 理性、革命与探究共同体 47
 #include "preface.typ"
 #trans-note-cnt.update(0)
 #orig-note-cnt.update(0)
-= 第一部分：讲座
+#align(center)[
+  #set text(font: "SIMHEI", size: 20pt, weight: "bold")
+  第一部分：讲座
+]
 #include "the_idea_of_a_scientific_philosophy.typ"
