@@ -1,11 +1,11 @@
 #import "glossary.typ": *   // 导入所有定义
 #import "common.typ": *   // 导入所有定义
-
+#set text(font: ("Segoe UI Emoji", "SimSun", "Microsoft YaHei"))
 #show emph: it => {
-  underline(text(font: "KaiTi", it.body))
+  text(font: "KaiTi", style: "italic", fill: blue, it.body)
 }
 #show strong: it => {
-  text(font: "SIMHEI", it.body)
+  text(font: "SIMHEI", weight: "bold", it.body)
 }
 
 #show heading.where(level: 1): it => {
