@@ -145,3 +145,8 @@ A philosophical work consists essentially of elucidations.
 Philosophy does not result in "philosophical propositions," but rather in propositions becoming clear.（此处有原注14：Wittgenstein (1922, §§ 4.111-4.1112)）
 
 A proper understanding of the new mathematical logic shows, according to the *Tractatus*, that the only meaningful propositions - propositions that can be meaningfully said to be true or false - are those of the individual natural sciences. And there can be no "ultimate principles" of these sciences whose articulation and formulation would belong, as its special province, to philosophy. All philosophy can do is analyze the logical form or logical structure of the propositions of the special sciences, whereby it issues in no propositions - no "ultimate principles" - of its own, but simply in the activity of logical clarification itself, an activity that does not involve the formulation or articulation of further meaningful propositions in turn.
+
+Indeed, it is precisely the misconstrual of philosophy as a body of doctrine that is responsible for the confusions, and in fact utter nonsense, of traditional metaphysics:
+
+The correct method of philosophy would properly be the following: To say nothing but what can be said, that is, the propositions of natural science - and thus something that has nothing to do
+with philosophy - and then, whenever another wanted to say something metaphysical, to demonstrate to him that he had given no meaning to certain signs in his propositions. （此处有原注15）
