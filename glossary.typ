@@ -53,7 +53,12 @@
 #let kantian() = text(style: "italic", font: "SimHei")[康德主义];
 #let neo_kantian() = text(style: "italic", font: "SimHei")[新康德主义];
 #let newtonian() = text(style: "italic", font: "SimHei")[牛顿式的];
+// 超越（transcendence）在哲学中传达的是源自该词（拉丁语）字面意思的基本概念，即越过。它是指处于普通经验或理解之外的状态，涉及超越知觉和知识的通常界限，访问更高或更深层次的现实，并且侧重于理性、意识或现实的本质等概念, 试图提供一个不依赖于宗教信仰或超自然力量的理解世界的框架，也是一个关于存在的知识的显现和验证的框架。
+#let transcendence() = text(style: "italic", font: "SimHei")[超越];
+// 对于康德而言，“超越的”(transcendent)的意思是指那些超越我们知识能力的范畴，与“超验的”（transcendental）相对。
+#let transcendent() = text(style: "italic", font: "SimHei")[超越的];
 #let transcendental() = text(style: "italic", font: "SimHei")[超验的];
 #let transcendental_logic() = text(style: "italic", font: "SimHei")[超验哲学];
 #let a_priori() = text(style: "italic", font: "SimHei")[先验的];
 #let a_priori_n() = text(style: "italic", font: "SimHei")[先验];
+#let tractatus_logico_philosophicus() = text(style: "italic", font: "SimHei")[《逻辑哲学论》];
