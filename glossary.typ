@@ -49,6 +49,9 @@
 // 以下为其他专有名词
 #let dynamics_of_reason() = text(style: "italic", font: "SimHei")[理性的动态性];
 #let logical_empiricism() = text(style: "italic", font: "SimHei")[逻辑经验主义];
+#let logical_positivism() = text(style: "italic", font: "SimHei")[逻辑实证主义];
+#let logical_positivist() = text(style: "italic", font: "SimHei")[逻辑实证主义];
+#let logical_positivist2() = text(style: "italic", font: "SimHei")[逻辑实证主义的];
 #let logical_empiricists() = text(style: "italic", font: "SimHei")[逻辑经验主义者];
 #let kantian() = text(style: "italic", font: "SimHei")[康德主义];
 #let neo_kantian() = text(style: "italic", font: "SimHei")[新康德主义];
@@ -62,3 +65,5 @@
 #let a_priori() = text(style: "italic", font: "SimHei")[先验的];
 #let a_priori_n() = text(style: "italic", font: "SimHei")[先验];
 #let tractatus_logico_philosophicus() = text(style: "italic", font: "SimHei")[《逻辑哲学论》];
+#let internal_questions() = text(style: "italic", font: "SimHei")[内部问题];
+#let external_questions() = text(style: "italic", font: "SimHei")[外部问题];
