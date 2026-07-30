@@ -52,6 +52,7 @@
 #let logical_positivism() = text(style: "italic", font: "SimHei")[逻辑实证主义];
 #let logical_positivist() = text(style: "italic", font: "SimHei")[逻辑实证主义];
 #let logical_positivist2() = text(style: "italic", font: "SimHei")[逻辑实证主义的];
+#let logical_positivists() = text(style: "italic", font: "SimHei")[逻辑实证主义者];
 #let logical_empiricists() = text(style: "italic", font: "SimHei")[逻辑经验主义者];
 #let kantian() = text(style: "italic", font: "SimHei")[康德主义];
 #let neo_kantian() = text(style: "italic", font: "SimHei")[新康德主义];
@@ -62,6 +63,7 @@
 #let transcendent() = text(style: "italic", font: "SimHei")[超越的];
 #let transcendental() = text(style: "italic", font: "SimHei")[超验的];
 #let transcendental_logic() = text(style: "italic", font: "SimHei")[超验哲学];
+#let transcendental_philosophy() = text(style: "italic", font: "SimHei")[超验哲学];
 #let a_priori() = text(style: "italic", font: "SimHei")[先验的];
 #let a_priori_n() = text(style: "italic", font: "SimHei")[先验];
 #let tractatus_logico_philosophicus() = text(style: "italic", font: "SimHei")[《逻辑哲学论》];
