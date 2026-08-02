@@ -59,13 +59,26 @@
 #let newtonian() = text(style: "italic", font: "SimHei")[牛顿式的];
 // 超越（transcendence）在哲学中传达的是源自该词（拉丁语）字面意思的基本概念，即越过。它是指处于普通经验或理解之外的状态，涉及超越知觉和知识的通常界限，访问更高或更深层次的现实，并且侧重于理性、意识或现实的本质等概念, 试图提供一个不依赖于宗教信仰或超自然力量的理解世界的框架，也是一个关于存在的知识的显现和验证的框架。
 #let transcendence() = text(style: "italic", font: "SimHei")[超越];
-// 对于康德而言，“超越的”(transcendent)的意思是指那些超越我们知识能力的范畴，与“超验的”（transcendental）相对。
-#let transcendent() = text(style: "italic", font: "SimHei")[超越的];
-#let transcendental() = text(style: "italic", font: "SimHei")[超验的];
-#let transcendental_logic() = text(style: "italic", font: "SimHei")[超验哲学];
-#let transcendental_philosophy() = text(style: "italic", font: "SimHei")[超验哲学];
-#let a_priori() = text(style: "italic", font: "SimHei")[先验的];
-#let a_priori_n() = text(style: "italic", font: "SimHei")[先验];
+// 对于康德而言，“超验的”(transcendent)的意思是指那些超越我们知识能力的范畴，与“先验的”（transcendental）相对。
+#let transcendent() = text(style: "italic", font: "SimHei")[超验的];
+#let transcendental() = text(style: "italic", font: "SimHei")[先验的];
+#let transcendental_logic() = text(style: "italic", font: "SimHei")[先验逻辑];
+#let transcendental_philosophy() = text(style: "italic", font: "SimHei")[先验哲学];
+#let transcendental_idealism() = text(style: "italic", font: "SimHei")[先验唯心论];
+#let a_priori() = text(style: "italic", font: "SimHei")[先天的];
+#let a_priori_adv() = text(style: "italic", font: "SimHei")[先天地];
+#let a_priori_n() = text(style: "italic", font: "SimHei")[先天];
+#let a_priori_forms() = text(style: "italic", font: "SimHei")[先天形式];
+#let a_priori_forms_of_intuition() = text(style: "italic", font: "SimHei")[先天直观形式];
+#let a_priori_conditions_of_the_possibility_of_experience() = text(
+  style: "italic",
+  font: "SimHei",
+)[使经验成为可能的先天条件];
+// "动态先验论"是准确的译法，不应改为"动态先天论"——但这不是因为可以简单套用"a priori=先天"的机械规则，而是因为 Friedman/赖欣巴哈技术意义上的"a priori"，其哲学功能恰恰是康德意义上"先验的"东西，只是被历史化、相对化了。这是一个经过审慎哲学理由支持的例外，而非翻译疏忽。
+#let dynamic_a_priori() = text(style: "italic", font: "SimHei")[动态先验论];
+#let relativized_a_priori() = text(style: "italic", font: "SimHei")[相对化先验论];
+#let synthetic_a_priori_judgment() = text(style: "italic", font: "SimHei")[先天综合判断];
+#let a_posteriori() = text(style: "italic", font: "SimHei")[后天的];
 #let tractatus_logico_philosophicus() = text(style: "italic", font: "SimHei")[《逻辑哲学论》];
 #let internal_questions() = text(style: "italic", font: "SimHei")[内部问题];
 #let external_questions() = text(style: "italic", font: "SimHei")[外部问题];
