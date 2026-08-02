@@ -75,8 +75,9 @@
   font: "SimHei",
 )[使经验成为可能的先天条件];
 // "动态先验论"是准确的译法，不应改为"动态先天论"——但这不是因为可以简单套用"a priori=先天"的机械规则，而是因为 Friedman/赖欣巴哈技术意义上的"a priori"，其哲学功能恰恰是康德意义上"先验的"东西，只是被历史化、相对化了。这是一个经过审慎哲学理由支持的例外，而非翻译疏忽。
-#let dynamic_a_priori() = text(style: "italic", font: "SimHei")[动态先验论];
-#let relativized_a_priori() = text(style: "italic", font: "SimHei")[相对化先验论];
+#let dynamic_a_priori() = text(style: "italic", font: "SimHei")[动态先天论];
+#let relativized_a_priori() = text(style: "italic", font: "SimHei")[相对化先天论];
+#let synthetic_a_priori() = text(style: "italic", font: "SimHei")[先天综合的];
 #let synthetic_a_priori_judgment() = text(style: "italic", font: "SimHei")[先天综合判断];
 #let a_posteriori() = text(style: "italic", font: "SimHei")[后天的];
 #let tractatus_logico_philosophicus() = text(style: "italic", font: "SimHei")[《逻辑哲学论》];
