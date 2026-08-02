@@ -191,3 +191,4 @@ III. 理性、革命与探究共同体 47
   第一部分：讲座
 ]
 #include "the_idea_of_a_scientific_philosophy.typ"
+#include "historical_perspectives_on_the_stratification_of_knowledge.typ"
