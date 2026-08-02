@@ -186,8 +186,9 @@ III. 理性、革命与探究共同体 47
 #include "preface.typ"
 #trans-note-cnt.update(0)
 #orig-note-cnt.update(0)
+#pagebreak(weak: true)
 #align(center)[
-  #set text(font: "SIMHEI", size: 20pt, weight: "bold")
+  #set text(font: "SIMHEI", size: 24pt, weight: "bold")
   第一部分：讲座
 ]
 #include "the_idea_of_a_scientific_philosophy.typ"
