@@ -2,15 +2,25 @@
 #import "../common.typ": *   // 导入所有定义
 
 Library of Congress Cataloging-in-Publication Data
+
 Friedman, Michael, 1947-
+
 Dynamics of reason / Michael Friedman.
+
 p. cm.
+
 (Stanford Kant Lectures)
+
 Includes bibliographical references and index.
+
 ISBN 1-57586-291-3 (alk. paper)-ISBN 1-57586-292-1 (pbk.: alk. paper)
+
 1. Science-Philosophy. I. Title
+
 Q175 .F892 2001
+
 501-dc21
+
 2001017171
 
 这是标准的美国图书馆版权页与编目信息。
