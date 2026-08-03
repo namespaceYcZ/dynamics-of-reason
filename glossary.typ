@@ -46,6 +46,8 @@
 #let schlick() = underline(text(style: "italic", font: "KaiTi")[石里克]);
 #let ludwig_wittgenstein() = underline(text(style: "italic", font: "KaiTi")[路德维希·维特根斯坦]);
 #let wittgenstein() = underline(text(style: "italic", font: "KaiTi")[维特根斯坦]);
+#let david_hume() = underline(text(style: "italic", font: "KaiTi")[大卫·休谟]);
+#let hume() = underline(text(style: "italic", font: "KaiTi")[休谟]);
 
 // 以下为专有名词，并且是需要特定格式强调的专有名词
 #let dynamics_of_reason() = text(style: "italic", font: "SimHei")[理性的动态性];
