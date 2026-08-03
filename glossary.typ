@@ -1,11 +1,11 @@
-// 以下为人名
+// 以下为人名，人名的出现必须有特定的格式要求
 #let michael_friedman() = underline(text(style: "italic", font: "KaiTi")[迈克尔·弗里德曼]);
 #let friedman() = underline(text(style: "italic", font: "KaiTi")[弗里德曼]);
 #let immanuel_kant() = underline(text(style: "italic", font: "KaiTi")[伊曼努尔·康德]);
 #let kant() = underline(text(style: "italic", font: "KaiTi")[康德]);
 #let hans_reichenbach() = underline(text(style: "italic", font: "KaiTi")[汉斯·赖欣巴赫]);
 #let reichenbach() = underline(text(style: "italic", font: "KaiTi")[赖欣巴赫]);
-#let carl_gustav_hempel_complex() = underline(text(
+#let carl_gustav_peter_hempel() = underline(text(
   style: "italic",
   font: "KaiTi",
 )[卡尔·古斯塔夫（"彼得"）·亨佩尔]);
@@ -46,40 +46,39 @@
 #let schlick() = underline(text(style: "italic", font: "KaiTi")[石里克]);
 #let ludwig_wittgenstein() = underline(text(style: "italic", font: "KaiTi")[路德维希·维特根斯坦]);
 #let wittgenstein() = underline(text(style: "italic", font: "KaiTi")[维特根斯坦]);
-// 以下为其他专有名词
+
+// 以下为专有名词，并且是需要特定格式强调的专有名词
 #let dynamics_of_reason() = text(style: "italic", font: "SimHei")[理性的动态性];
 #let logical_empiricism() = text(style: "italic", font: "SimHei")[逻辑经验主义];
 #let logical_positivism() = text(style: "italic", font: "SimHei")[逻辑实证主义];
 #let logical_positivist() = text(style: "italic", font: "SimHei")[逻辑实证主义];
-#let logical_positivist2() = text(style: "italic", font: "SimHei")[逻辑实证主义的];
+#let logical_positivist_adj() = text(style: "italic", font: "SimHei")[逻辑实证主义的];
 #let logical_positivists() = text(style: "italic", font: "SimHei")[逻辑实证主义者];
 #let logical_empiricists() = text(style: "italic", font: "SimHei")[逻辑经验主义者];
 #let kantian() = text(style: "italic", font: "SimHei")[康德主义];
 #let neo_kantian() = text(style: "italic", font: "SimHei")[新康德主义];
-#let newtonian() = text(style: "italic", font: "SimHei")[牛顿式的];
-// 超越（transcendence）在哲学中传达的是源自该词（拉丁语）字面意思的基本概念，即越过。它是指处于普通经验或理解之外的状态，涉及超越知觉和知识的通常界限，访问更高或更深层次的现实，并且侧重于理性、意识或现实的本质等概念, 试图提供一个不依赖于宗教信仰或超自然力量的理解世界的框架，也是一个关于存在的知识的显现和验证的框架。
-#let transcendence() = text(style: "italic", font: "SimHei")[超越];
-// 对于康德而言，“超验的”(transcendent)的意思是指那些超越我们知识能力的范畴，与“先验的”（transcendental）相对。
-#let transcendent() = text(style: "italic", font: "SimHei")[超验的];
-#let transcendental() = text(style: "italic", font: "SimHei")[先验的];
 #let transcendental_logic() = text(style: "italic", font: "SimHei")[先验逻辑];
 #let transcendental_philosophy() = text(style: "italic", font: "SimHei")[先验哲学];
 #let transcendental_idealism() = text(style: "italic", font: "SimHei")[先验唯心论];
-#let a_priori() = text(style: "italic", font: "SimHei")[先天的];
-#let a_priori_adv() = text(style: "italic", font: "SimHei")[先天地];
-#let a_priori_n() = text(style: "italic", font: "SimHei")[先天];
 #let a_priori_forms() = text(style: "italic", font: "SimHei")[先天形式];
 #let a_priori_forms_of_intuition() = text(style: "italic", font: "SimHei")[先天直观形式];
 #let a_priori_conditions_of_the_possibility_of_experience() = text(
   style: "italic",
   font: "SimHei",
 )[使经验成为可能的先天条件];
-// "动态先验论"是准确的译法，不应改为"动态先天论"——但这不是因为可以简单套用"a priori=先天"的机械规则，而是因为 Friedman/赖欣巴哈技术意义上的"a priori"，其哲学功能恰恰是康德意义上"先验的"东西，只是被历史化、相对化了。这是一个经过审慎哲学理由支持的例外，而非翻译疏忽。
-#let dynamic_a_priori() = text(style: "italic", font: "SimHei")[动态先天论];
-#let relativized_a_priori() = text(style: "italic", font: "SimHei")[相对化先天论];
 #let synthetic_a_priori() = text(style: "italic", font: "SimHei")[先天综合的];
 #let synthetic_a_priori_judgment() = text(style: "italic", font: "SimHei")[先天综合判断];
-#let a_posteriori() = text(style: "italic", font: "SimHei")[后天的];
 #let tractatus_logico_philosophicus() = text(style: "italic", font: "SimHei")[《逻辑哲学论》];
 #let internal_questions() = text(style: "italic", font: "SimHei")[内部问题];
 #let external_questions() = text(style: "italic", font: "SimHei")[外部问题];
+#let conditions_of_possibility() = text(style: "italic", font: "SimHei")[可能性条件];
+
+// 以下为无需特定格式的固定译法
+#let newtonian() = [牛顿式的];
+#let transcendental() = [先验的];
+#let a_priori() = [先天的];
+#let a_priori_adv() = [先天地];
+#let a_priori_n() = [先天];
+#let dynamic_a_priori() = [动态先天论];
+#let relativized_a_priori() = [相对化先天论];
+#let a_posteriori() = [后天的];
