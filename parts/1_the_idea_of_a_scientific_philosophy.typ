@@ -1,5 +1,5 @@
-#import "glossary.typ": *   // 导入所有定义
-#import "common.typ": *   // 导入所有定义
+#import "../glossary.typ": *   // 导入所有定义
+#import "../common.typ": *   // 导入所有定义
 
 = "科学的哲学"这一观念
 #trans-note[本讲标题中的 *scientific philosophy* 具有双重含义：

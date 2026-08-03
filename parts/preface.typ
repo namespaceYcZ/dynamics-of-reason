@@ -1,5 +1,5 @@
-#import "glossary.typ": *   // 导入所有定义
-#import "common.typ": *   // 导入所有定义
+#import "../glossary.typ": *   // 导入所有定义
+#import "../common.typ": *   // 导入所有定义
 
 = 前言
 
