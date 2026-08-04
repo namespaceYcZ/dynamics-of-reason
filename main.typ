@@ -58,3 +58,5 @@
 ]
 #include "parts/1_the_idea_of_a_scientific_philosophy.typ"
 #include "parts/2_historical_perspectives_on_the_stratification_of_knowledge.typ"
+
+#include "parts/appendix_a.typ"
