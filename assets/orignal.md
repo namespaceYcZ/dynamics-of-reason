@@ -217,9 +217,7 @@ Quine's attack on Carnap's version of the analytic/synthetic distinction - and t
 
 Quine's epistemological holism pictures our total system of science as a vast web or conjunction of beliefs which face the "tribunal of experience" as a corporate body. Quine grants that some beliefs, such as those of logic and arithmetic, for example, are relatively central, whereas others, such as those of biology, say, are relatively peripheral. But this means only that the former beliefs are less likely to be revised in case of a "recalcitrant experience" at the periphery, whereas the latter are more likely to be revised. Otherwise, from an epistemological point of view, there is simply no relevant distinction to be made here:
 
-Suppose an experiment has yielded a result contrary to a theory currently held in some natural science. The theory comprises
-a whole bundle of conjoint hypotheses, or is resoluble into such a bundle. The most that the experiment shows is that at least one
-of these hypotheses is false; it does not show which. It is only the theory as a whole, and not any of the hypotheses, that admits of evidence or counter-evidence in observation and experiment.
+Suppose an experiment has yielded a result contrary to a theory currently held in some natural science. The theory comprises a whole bundle of conjoint hypotheses, or is resoluble into such a bundle. The most that the experiment shows is that at least one of these hypotheses is false; it does not show which. It is only the theory as a whole, and not any of the hypotheses, that admits of evidence or counter-evidence in observation and experiment.
 
 And how wide is a theory? No part of science is quite isolated from the rest. Parts as disparate as you please may be expected to share laws of logic and arithmetic, anyway, and to share various common-sense generalities about bodies in motion. Legalistically, one could claim that evidence counts always for or against the total system, however loose-knit, of science. Evidence against the system is not evidence against anyone sentence rather than another, but can be acted on rather by any of various adjustments.
 
