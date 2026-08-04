@@ -60,3 +60,4 @@
 #include "parts/2_historical_perspectives_on_the_stratification_of_knowledge.typ"
 
 #include "parts/appendix_a.typ"
+#include "parts/appendix_b.typ"
