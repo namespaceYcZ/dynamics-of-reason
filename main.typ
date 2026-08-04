@@ -1,11 +1,11 @@
 #import "glossary.typ": *   // 导入所有定义
 #import "common.typ": *   // 导入所有定义
-#set text(font: ("Segoe UI Emoji", "SimSun", "Microsoft YaHei"))
+#set text(font: ("Calisto MT", "SimSun", "Microsoft YaHei"), lang: "zh")
 #show emph: it => {
-  text(font: "KaiTi", style: "italic", fill: blue, it.body)
+  text(font: ("Calisto MT", "KaiTi"), style: "italic", fill: red, it.body)
 }
 #show strong: it => {
-  text(font: "SIMHEI", weight: "bold", it.body)
+  text(font: ("Calisto MT", "SIMHEI"), weight: "bold", it.body)
 }
 
 #show heading.where(level: 1): it => {
@@ -13,7 +13,7 @@
   pagebreak(weak: true)
   v(2em)
   align(center)[
-    #set text(font: "SIMHEI", size: 18pt, weight: "bold")
+    #set text(font: ("Calisto MT", "SIMHEI"), size: 18pt, weight: "bold")
     #it.body
   ]
   v(1em)
@@ -21,7 +21,7 @@
 #show heading.where(level: 2): it => {
   item-cnt.update(0)
   align(center)[
-    #set text(font: "SIMHEI", size: 16pt, weight: "bold")
+    #set text(font: ("Calisto MT", "SIMHEI"), size: 16pt, weight: "bold")
     #it.body
   ]
   v(1em)
