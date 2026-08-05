@@ -75,7 +75,7 @@
 #let internal_questions() = text(style: "italic", font: "SimHei")[内部问题];
 #let external_questions() = text(style: "italic", font: "SimHei")[外部问题];
 #let conditions_of_possibility() = text(style: "italic", font: "SimHei")[可能性条件];
-
+#let zurvck_zu_kant() = text(style: "italic", font: "SimHei")[“回到康德！”];
 // 以下为无需特定格式的固定译法
 #let newtonian() = [牛顿式的];
 #let transcendental() = [先验的];
