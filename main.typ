@@ -61,3 +61,4 @@
 
 #include "parts/appendix_a.typ"
 #include "parts/appendix_b.typ"
+#include "parts/appendix_c.typ"
