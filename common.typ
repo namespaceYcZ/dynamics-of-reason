@@ -38,7 +38,6 @@
 #let trans-note(body) = {
   // 先步进，再显示——这是 Typst 计数器的使用惯例
   trans-note-cnt.step()
-  // 在正文中插入上标标记
 
   // 在页脚插入对应条目
   footnote(numbering: tnc)[
@@ -48,8 +47,6 @@
 #let orig-note(body) = {
   // 先步进，再显示——这是 Typst 计数器的使用惯例
   orig-note-cnt.step()
-  // 在正文中插入上标标记
-
   // 在页脚插入对应条目
   footnote(numbering: onc)[
     #context [原文注：]#body
