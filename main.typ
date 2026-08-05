@@ -1,6 +1,6 @@
 #import "glossary.typ": *   // 导入所有定义
 #import "common.typ": *   // 导入所有定义
-#set text(font: ("Libertinus Serif", "SimSun", "Microsoft YaHei"), lang: "zh")
+#set text(font: ("Libertinus Serif", "SimSun", "Microsoft YaHei"), lang: "zh")// todo SimSun和Noto Serif SC选哪个？
 #show emph: it => {
   text(font: ("Libertinus Serif", "KaiTi"), style: "italic", it.body)
 }
