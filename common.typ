@@ -30,27 +30,48 @@
 
 
 #let ref-link(label, body) = link(label)[#highlight(fill: rgb("#FFF9C4"))[#text(font: "Microsoft YaHei", body)]]// FFECB3
+
+// 是否输出译注的开关（默认不输出）
+#let show-tns = if "show-tns" in sys.inputs {
+  (sys.inputs.at("show-tns") == "true")
+} else {
+  true // 默认显示译注
+}
+
 // 译注：手动编号、用星号标号、条目前带“译注：”前缀
 #let trans-note-cnt = counter("trans-note")
 #let orig-note-cnt = counter("orig-note")
 #let tnc(.., last) = "⭐" + trans-note-cnt.display()
 #let onc(.., last) = orig-note-cnt.display()
 #let trans-note(body) = {
-  // 先步进，再显示——这是 Typst 计数器的使用惯例
-  trans-note-cnt.step()
+  if show-tns {
+    // 先步进，再显示——这是 Typst 计数器的使用惯例
+    trans-note-cnt.step()
 
-  // 在页脚插入对应条目
-  footnote(numbering: tnc)[
-    #context [译注：]#body
-  ]
+    // 在页脚插入对应条目
+    footnote(numbering: tnc)[
+      #context [译注：]#body
+    ]
+  }
 }
 #let orig-note(body) = {
   // 先步进，再显示——这是 Typst 计数器的使用惯例
   orig-note-cnt.step()
   // 在页脚插入对应条目
-  footnote(numbering: onc)[
-    #context [原文注：]#body
-  ]
+  if show-tns {
+    footnote(numbering: onc)[
+      #context [原文注：]#body
+    ]
+  } else {
+    footnote(numbering: onc)[
+      #context body
+    ]
+  }
+}
+#let orig-trans-note(body) = {
+  if show-tns {
+    [译者按：] + "\n" + body
+  }
 }
 #let codebox(body) = block(
   fill: luma(245),
