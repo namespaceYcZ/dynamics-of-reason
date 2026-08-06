@@ -26,4 +26,4 @@ III. 理性、革命与探究共同体 47
 
 索引 137
 
-#outline(title: "译文目录", depth: 2)
+#outline(title: "译文目录", depth: 1)

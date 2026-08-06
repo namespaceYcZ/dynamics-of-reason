@@ -56,8 +56,9 @@
   #set text(font: "SIMHEI", size: 24pt, weight: "bold")
   第一部分：讲座
 ]
-#include "parts/1_the_idea_of_a_scientific_philosophy.typ"
-#include "parts/2_historical_perspectives_on_the_stratification_of_knowledge.typ"
+#include "parts/lecture_1.typ"
+#include "parts/lecture_2.typ"
+#include "parts/lecture_3.typ"
 
 #include "parts/appendix_a.typ"
 #include "parts/appendix_b.typ"
