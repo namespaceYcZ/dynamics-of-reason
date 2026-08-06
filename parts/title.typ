@@ -1,6 +1,6 @@
 #import "../glossary.typ": *   // 导入所有定义
 #import "../common.typ": *   // 导入所有定义
-
+#set page(header: none, footer: none)
 #michael_friedman()
 #dynamics_of_reason()
 1999年斯坦福大学#kant()讲座

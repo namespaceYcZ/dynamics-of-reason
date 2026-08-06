@@ -1,6 +1,6 @@
 #import "../glossary.typ": *   // 导入所有定义
 #import "../common.typ": *   // 导入所有定义
-
+#set page(header: none, footer: none)
 Library of Congress Cataloging-in-Publication Data
 
 Friedman, Michael, 1947-

@@ -1,5 +1,6 @@
 #import "../glossary.typ": *   // 导入所有定义
 #import "../common.typ": *   // 导入所有定义
+#set page(header: none, footer: none)
 斯坦福#kant()讲座
 
 斯坦福#kant()讲座是由斯坦福大学哲学系主办的邀请讲座系列。

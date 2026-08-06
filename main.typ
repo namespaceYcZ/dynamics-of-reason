@@ -27,33 +27,43 @@
   ]
   v(1em)
 }
-#set page(
-  numbering: "1", // 页码格式
-  number-align: center, // 页码位置：left / center / right
-)
-#include "parts/cover.typ";
+
+#set page(numbering: "i", number-align: center)
+#counter(page).update(1)
+
+#include "parts/cover.typ"
 #pagebreak(weak: true)
-#include "parts/half_title.typ";
+#include "parts/half_title.typ"
 #pagebreak(weak: true)
 #include "parts/series.typ"
 #pagebreak(weak: true)
-#include "parts/title.typ";
+#include "parts/title.typ"
 #pagebreak(weak: true)
-#include "parts/copyright.typ";
+#include "parts/copyright.typ"
 #pagebreak(weak: true)
-#include "parts/dedication.typ";
+#include "parts/dedication.typ"
 #pagebreak(weak: true)
-#include "parts/epigraph.typ";
+#include "parts/epigraph.typ"
 #pagebreak(weak: true)
-#include "parts/content.typ";
+#include "parts/content.typ"
+
 #trans-note-cnt.update(0)
 #orig-note-cnt.update(0)
 // 前言
 #include "parts/preface.typ"
+
+#set page(
+  numbering: "1", // 页码格式
+  number-align: center, // 页码位置：left / center / right
+)
+#counter(page).update(2)
+
 #trans-note-cnt.update(0)
 #orig-note-cnt.update(0)
 #pagebreak(weak: true)
+
 #align(center)[
+  #set page(header: none, footer: none)
   #set text(font: "SIMHEI", size: 24pt, weight: "bold")
   第一部分：讲座
 ]

@@ -1,5 +1,6 @@
 #import "../glossary.typ": *   // 导入所有定义
 #import "../common.typ": *   // 导入所有定义
+#set page(header: none, footer: none)
 // 引言
 #quote(block: true, quotes: false, attribution: [#kant()])[
   人们或许会以为，*〔理性对于系统统一性和简单性的要求〕*不过是一种经济性的权宜手段，理性借此试图尽可能省却自身的一切劳苦；它只是一种假设性的尝试：如果这种尝试获得成功，那么它便会凭借由此达到的统一性，使那个预设的解释原则获得某种盖然性。
