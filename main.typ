@@ -71,8 +71,10 @@
 #include "parts/lecture_2.typ"
 #include "parts/lecture_3.typ"
 
-#include "parts/appendix_a.typ"
-#include "parts/appendix_b.typ"
-#include "parts/appendix_c.typ"
-#include "parts/appendix_d.typ"
-#include "parts/appendix_e.typ"
+#if show-tns {
+  include "parts/appendix_a.typ"
+  include "parts/appendix_b.typ"
+  include "parts/appendix_c.typ"
+  include "parts/appendix_d.typ"
+  include "parts/appendix_e.typ"
+}

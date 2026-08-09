@@ -50,6 +50,9 @@
 #let hume() = underline(text(style: "italic", font: "KaiTi")[休谟]);
 #let pierre_duhem() = underline(text(style: "italic", font: "KaiTi")[皮埃尔·杜恒]);
 #let duhem() = underline(text(style: "italic", font: "KaiTi")[杜恒]);
+#let jvrgen_habermas() = underline(text(style: "italic", font: "KaiTi")[尤尔根·哈贝马斯]);
+#let habermas() = underline(text(style: "italic", font: "KaiTi")[哈贝马斯]);
+
 // 以下为专有名词，并且是需要特定格式强调的专有名词
 #let dynamics_of_reason() = text(style: "italic", font: "SimHei")[理性的动态性];
 #let logical_empiricism() = text(style: "italic", font: "SimHei")[逻辑经验主义];
@@ -76,6 +79,11 @@
 #let external_questions() = text(style: "italic", font: "SimHei")[外部问题];
 #let conditions_of_possibility() = text(style: "italic", font: "SimHei")[可能性条件];
 #let zurvck_zu_kant() = text(style: "italic", font: "SimHei")[“回到康德！”];
+#let intersubjectivity() = text(style: "italic", font: "SimHei")[主体间性];
+#let intersubjective() = text(style: "italic", font: "SimHei")[主体间的];
+#let communicative_rationality() = text(style: "italic", font: "SimHei")[交往理性];
+#let instrumental_rationality() = text(style: "italic", font: "SimHei")[工具理性];
+
 // 以下为无需特定格式的固定译法
 #let newtonian() = [牛顿式的];
 #let transcendental() = [先验的];
