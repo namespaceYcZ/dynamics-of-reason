@@ -77,4 +77,5 @@
   include "parts/appendix_c.typ"
   include "parts/appendix_d.typ"
   include "parts/appendix_e.typ"
+  include "parts/appendix_f.typ"
 }
