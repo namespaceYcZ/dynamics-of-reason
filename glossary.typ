@@ -52,7 +52,8 @@
 #let duhem() = underline(text(style: "italic", font: "KaiTi")[杜恒]);
 #let jvrgen_habermas() = underline(text(style: "italic", font: "KaiTi")[尤尔根·哈贝马斯]);
 #let habermas() = underline(text(style: "italic", font: "KaiTi")[哈贝马斯]);
-
+#let ernst_cassirer() = underline(text(style: "italic", font: "KaiTi")[恩斯特·卡西尔]);
+#let cassirer() = underline(text(style: "italic", font: "KaiTi")[卡西尔]);
 // 以下为专有名词，并且是需要特定格式强调的专有名词
 #let dynamics_of_reason() = text(style: "italic", font: "SimHei")[理性的动态性];
 #let logical_empiricism() = text(style: "italic", font: "SimHei")[逻辑经验主义];
@@ -61,8 +62,6 @@
 #let logical_positivist_adj() = text(style: "italic", font: "SimHei")[逻辑实证主义的];
 #let logical_positivists() = text(style: "italic", font: "SimHei")[逻辑实证主义者];
 #let logical_empiricists() = text(style: "italic", font: "SimHei")[逻辑经验主义者];
-#let kantian() = text(style: "italic", font: "SimHei")[康德主义];
-#let neo_kantian() = text(style: "italic", font: "SimHei")[新康德主义];
 #let transcendental_logic() = text(style: "italic", font: "SimHei")[先验逻辑];
 #let transcendental_philosophy() = text(style: "italic", font: "SimHei")[先验哲学];
 #let transcendental_idealism() = text(style: "italic", font: "SimHei")[先验唯心论];
@@ -87,6 +86,7 @@
 // 以下为无需特定格式的固定译法
 #let newtonian() = [牛顿式的];
 #let transcendental() = [先验的];
+#let transcendental_n() = [先验];
 #let a_priori() = [先天的];
 #let a_priori_adv() = [先天地];
 #let a_priori_n() = [先天];
@@ -94,3 +94,5 @@
 #let relativized_a_priori() = [相对化先天论];
 #let a_posteriori() = [后天的];
 #let a_posteriori_n() = [后天的];
+#let kantian() = [康德主义];
+#let neo_kantian() = [新康德主义];
