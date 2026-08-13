@@ -71,6 +71,12 @@
 #include "parts/lecture_2.typ"
 #include "parts/lecture_3.typ"
 
+#align(center)[
+  #set page(header: none, footer: none)
+  #set text(font: "SIMHEI", size: 24pt, weight: "bold")
+  第二部分：成果
+]
+
 #if show-tns {
   include "parts/appendix_a.typ"
   include "parts/appendix_b.typ"
