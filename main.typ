@@ -71,6 +71,8 @@
 #include "parts/lecture_2.typ"
 #include "parts/lecture_3.typ"
 
+#trans-note-cnt.update(0)
+#orig-note-cnt.update(0)
 #align(center)[
   #set page(header: none, footer: none)
   #set text(font: "SIMHEI", size: 24pt, weight: "bold")
