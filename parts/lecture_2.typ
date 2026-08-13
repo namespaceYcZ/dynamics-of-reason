@@ -425,7 +425,7 @@
   - 在直觉主义逻辑框架中，排中律*不是普遍有效的*（在某些涉及无穷的情况中，它不成立）。
   - 你不能问“到底哪种逻辑是真正正确的？”——这个问题本身没有意义。你只能问：在哪种框架下做哪种科学研究更方便？
 
-  读者应当注意到这一观点的相对主义意味，并且意识到对相对主义的自指式反驳在这里可能同样有效，对此，可参阅附录A。
+  读者应当注意到这一观点的相对主义意味，并且意识到对相对主义的自指式反驳在这里可能同样有效，对此，可参阅#ref-link(<appendix_a>)[附录A]。
 ]。例如，经典逻辑和数学的规则，定义了某些逻辑演算或语言框架；而直觉主义逻辑和数学的规则（其中*排中律*（_law of excluded middle_）不再普遍有效）#trans-note[*直觉主义逻辑*（_intuitionistic logic_）是20世纪初由荷兰数学家*L.E.J. Brouwer*发展出来的逻辑系统。它拒绝*排中律*（_law of excluded middle_）。
 
   排中律说：对于任何一个命题P，“P或非P”必然为真。
@@ -508,7 +508,7 @@
   ]
 ]确实，正如我们已经看到的，#reichenbach()对这种*构成性#a_priori_n()原则*（_constitutive a priori principles_）的新观点的最初表述，正是为了容纳#einstein()相对论的发展所带来的几何学和力学框架的革命性变化而提出的。*#quine()与#carnap()之间的差异*毋宁在于：后者坚持在*语言或语言框架的改变*（_changes of language or linguistic framework_）——在此种改变中，定义“有效性”和“正确性”这些概念本身的*构成性原则*（_constitutive principles_）被修订——与*在这样一个已经存在的构成性框架的背景之下*被表述的*普通经验陈述*（_ordinary empirical statements_）的改变之间，划出一条清晰的界线。而对#carnap()而言，这一区分最终建立在*分析陈述*（_analytic statements_）与*综合陈述*（_synthetic statements_）之间的差异之上：前者仅仅依赖于相关语词的意义，后者则表达关于经验世界的有内容的主张。
 
-#quine()对#carnap()版本的*分析/综合区分*（_analytic/synthetic distinction_）的攻击——从而对#carnap()版本的*#a_priori_n()原则与经验原则*之区分的攻击——如今已被广泛接受，我在此并*无意*为#carnap()阐述这一区分的特定方式*辩护*#trans-note[关于#quine()具体是如何攻击的，为何如此成功，参见附录B]。然而，我确实想追问：#quine()式的*认识论整体论*（_Quinean epistemological holism_）是否真的是我们*唯一的选择*#trans-note[这是一个至关重要的区分：
+#quine()对#carnap()版本的*分析/综合区分*（_analytic/synthetic distinction_）的攻击——从而对#carnap()版本的*#a_priori_n()原则与经验原则*之区分的攻击——如今已被广泛接受，我在此并*无意*为#carnap()阐述这一区分的特定方式*辩护*#trans-note[关于#quine()具体是如何攻击的，为何如此成功，参见#ref-link(<appendix_b>)[附录B]]。然而，我确实想追问：#quine()式的*认识论整体论*（_Quinean epistemological holism_）是否真的是我们*唯一的选择*#trans-note[这是一个至关重要的区分：
   - *弱结论*（#friedman()接受的）：#carnap()的*具体形式化方案*（把分析性完全定义为语言意义规则）站不住脚；
   - *强结论*（#friedman()拒绝的）：因此不存在任何形式的*构成性/经验、先天/后天的分层结构*，我们必须走向完全扁平的信念之网。
 
@@ -1067,7 +1067,7 @@
 
   这就是为什么#friedman()反复强调"*对科学的实际历史发展的细致关注*"(careful attention to the actual historical development of science)。他的方法不是*先验的逻辑分析*,而是*后验的历史考察*——通过研究真实的科学革命(牛顿革命、相对论革命),来*展示*构成性分层结构的存在。
 
-  然而，读者可能不禁想问，#friedman()是否满足于用历史事实证明“构成性先天框架确实存在且必须存在且能够（有条件地）动态演变”，而不去尝试回答这种框架是如何可能的？相关讨论可以参见附录C。
+  然而，读者可能不禁想问，#friedman()是否满足于用历史事实证明“构成性先天框架确实存在且必须存在且能够（有条件地）动态演变”，而不去尝试回答这种框架是如何可能的？相关讨论可以参见#ref-link(<appendix_c>)[附录C]。
 ]。
 
 我认为，以下事实有力地证实了最后这一观念：在#thomas_kuhn()关于科学革命之本性与特征的理论中，我们实际上可以找到#logical_empiricists()所发展出的*构成性#a_priori_n()原则之相对化观念*（_relativized conception of constitutive a priori principles_）的一个*非形式化对应物*（_informal counterpart_）。因此，#kuhn()在一方面的*范式转换或革命科学*（_change of paradigm or revolutionary science_）与另一方面的*常规科学*（_normal science_）之间所作的核心区分，与#carnap()在*语言或语言框架的更换*与*在这种框架内部进行的受规则支配的活动*之间所作的区分紧密对应。正如对#carnap()而言，一种语言框架的逻辑规则规定或构成了相对于该框架而言的“正确性”或“有效性”概念；同样，对#kuhn()而言，支配常规科学某一状态或阶段的特定范式，会产生一套得到普遍认同的——尽管可能只是*默会的*（_tacit_）——规则#trans-note[*默会规则*（_tacit rules_）指的是科学家实际遵守，却未必能够完整说出来或写成明确条文的规则。
