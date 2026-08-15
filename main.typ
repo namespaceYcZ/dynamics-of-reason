@@ -78,6 +78,7 @@
   #set text(font: "SIMHEI", size: 24pt, weight: "bold")
   第二部分：成果
 ]
+#include "parts/fruit_1.typ"
 
 #if show-tns {
   include "parts/appendix_a.typ"
