@@ -79,6 +79,7 @@
   第二部分：成果
 ]
 #include "parts/fruit_1.typ"
+#include "parts/fruit_2.typ"
 
 #if show-tns {
   include "parts/appendix_a.typ"
