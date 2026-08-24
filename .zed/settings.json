@@ -1,0 +1,28 @@
+{
+	"lsp": {
+		"tinymist": {
+			"initialization_options": {
+				// Enable background preview
+				// Server will be running on 127.0.0.1:23635
+				"preview": {
+					"background": {
+						"enabled": true
+					}
+				}
+			},
+			"settings": {
+				"typstExtraArgs": [
+					"main.typ"
+				],
+				// Enable formatter
+				"formatterMode": "typstyle"
+			}
+		}
+	},
+	"languages": {
+		"Typst": {
+			// Disable soft wrap
+			"soft_wrap": "editor_width"
+		}
+	}
+}
