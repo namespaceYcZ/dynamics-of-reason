@@ -89,4 +89,5 @@
   include "parts/appendix_e.typ"
   include "parts/appendix_f.typ"
   include "parts/appendix_k.typ"
+  include "parts/appendix_l.typ"
 }
