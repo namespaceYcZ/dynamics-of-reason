@@ -152,6 +152,4 @@
   - 这种*“重构式理解”*保证了科学不是一堆碎片的更替，而是一个*收敛的、进步的*过程，这与纯数学的发展逻辑是一致的。
 ]。
 
-然而，与纯数学之间最主要的*不类似之处*（_disanalogy_），并不仅仅在于这里的回溯性包含只是近似的。更关键的一点，毋宁在于：后继的构成性框架使用了*本质上不同的构成性原则*（_essentially different constitutive principles_）。特别地，后-#einstein()式的对#newton()引力理论的重构，是以*等效原理*（_principle of equivalence_）作为其核心的协调原则；而#newton()理论的原初表述，当然是以*经典运动定律*（_classical laws of motion_）为基础的。进一步说，在#newton()理论的原初表述中，经典运动定律是*构成性地先天的协调原则*（_constitutively a priori coordinating principles_），而等效原理则表现为一个附加的、非构成性的*经验事实*；但在后-爱因斯坦式的重构中，情况恰恰反过来：类似地具有构成性先天地位的，恰恰是*等效原理*，而经典运动定律则只是在某些特殊经验情况下成立的*经验条件*（_mere empirical conditions_）。（当然，严格地说，从后-爱因斯坦的观点来看，经典运动定律甚至在经验上都*不是精确有效*的。）
-
-因此，我们事实上恢复的，并不是经典的构成性框架*本身*（_as such_），而只是经典框架的一个*经验对应物*（_empirical counterpart_），它是在一个*完全不同的构成性框架*之内被表述出来的。极限程序因此*未能保持构成性*（_fails to preserve constitutivity_），即便是作为一个近似特例也不行。
+然而，与纯数学之间最主要的*不类似之处*（_disanalogy_），并不仅仅在于这里的回溯性包含只是近似的。更关键的一点，毋宁在于：后继的构成性框架使用了*本质上不同的构成性原则*（_essentially different constitutive principles_）。特别地，后-#einstein()式的对#newton()引力理论的重构，是以*等效原理*（_principle of equivalence_）作为其核心的协调原则；而#newton()理论的原初表述，当然是以*经典运动定律*（_classical laws of motion_）为基础的。进一步说，在#newton()理论的原初表述中，经典运动定律是*构成性地先天的协调原则*（_constitutively a priori coordinating principles_），而等效原理则表现为一个附加的、非构成性的*经验事实*；但在后-爱因斯坦式的重构中，情况恰恰反过来：类似地具有构成性先天地位的，恰恰是*等效原理*，而经典运动定律则只是在某些特殊经验情况下成立的*经验条件*（_mere empirical conditions_）。（当然，严格地说，从后-爱因斯坦的观点来看，经典运动定律甚至在经验上都*不是精确有效*的。）因此，我们事实上恢复的，并不是经典的构成性框架*本身*（_as such_），而只是经典框架的一个*经验对应物*（_empirical counterpart_），它是在一个*完全不同的构成性框架*之内被表述出来的。极限程序因此*未能保持构成性*（_fails to preserve constitutivity_），即便是作为一个近似特例也不行。
