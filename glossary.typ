@@ -55,7 +55,7 @@
 #let ernst_cassirer() = underline(text(style: "italic", font: "KaiTi")[恩斯特·卡西尔]);
 #let cassirer() = underline(text(style: "italic", font: "KaiTi")[卡西尔]);
 // 以下为专有名词，并且是需要特定格式强调的专有名词
-#let dynamics_of_reason() = text(style: "italic", font: "SimHei")[理性的动态性];
+
 #let logical_empiricism() = text(style: "italic", font: "SimHei")[逻辑经验主义];
 #let logical_positivism() = text(style: "italic", font: "SimHei")[逻辑实证主义];
 #let logical_positivist() = text(style: "italic", font: "SimHei")[逻辑实证主义];
@@ -84,6 +84,7 @@
 #let instrumental_rationality() = text(style: "italic", font: "SimHei")[工具理性];
 
 // 以下为无需特定格式的固定译法
+#let dynamics_of_reason() = [理性的动态机制];
 #let newtonian() = [牛顿式的];
 #let transcendental() = [先验的];
 #let transcendental_n() = [先验];
