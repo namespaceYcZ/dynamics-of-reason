@@ -82,6 +82,9 @@
 #include "parts/fruit_2.typ"
 #include "parts/fruit_3.typ"
 #include "parts/fruit_4.typ"
+#include "parts/fruit_5.typ"
+
+#include "parts/reference.typ"
 
 #if show-tns {
   include "parts/appendix_a.typ"
