@@ -54,6 +54,8 @@
 #let habermas() = underline(text(style: "italic", font: "KaiTi")[哈贝马斯]);
 #let ernst_cassirer() = underline(text(style: "italic", font: "KaiTi")[恩斯特·卡西尔]);
 #let cassirer() = underline(text(style: "italic", font: "KaiTi")[卡西尔]);
+#let ewald_herin() = underline(text(style: "italic", font: "KaiTi")[埃瓦尔德·黑林]);
+#let hering() = underline(text(style: "italic", font: "KaiTi")[黑林]);
 // 以下为专有名词，并且是需要特定格式强调的专有名词
 
 #let logical_empiricism() = text(style: "italic", font: "SimHei")[逻辑经验主义];
@@ -92,7 +94,7 @@
 #let a_priori_adv() = [先天地];
 #let a_priori_n() = [先天];
 #let dynamic_a_priori() = [动态先天];
-#let relativized_a_priori() = [相对化先天];
+#let relativized_a_priori() = [相对化的先天];
 #let a_posteriori() = [后天的];
 #let a_posteriori_n() = [后天];
 #let kantian() = [康德主义];

@@ -107,7 +107,7 @@ Horwich, P., ed. (1993) _World Changes: Thomas Kuhn and the Nature of Science_. 
 
 Howard, D. and J. Stachel, eds. (1989) _Einstein and the History of General Relativity_. Boston: Birkhauser.
 
-Kohnke, K. (1986) _Entstehung und Aufstieg des Neukantianismus: die deutsche Universitatsphilosophie zwischen Idealismus und Positivismus_. Frankfurt: Suhrkamp. Translated (partially) as The Rise of Neo-Kautianistn. Cambridge: Cambridge University Press, 1991.
+Köhnke, K. (1986) _Entstehung und Aufstieg des Neukantianismus: die deutsche Universitatsphilosophie zwischen Idealismus und Positivismus_. Frankfurt: Suhrkamp. Translated (partially) as The Rise of Neo-Kautianistn. Cambridge: Cambridge University Press, 1991.
 
 Kuhn, T. (1959) "Energy Conservation as an Example of Simultaneous Discovery." In M. Clagett, ed. _Critical Problems in the History of Science_. Madison: University of Wisconsin Press, 1959. Reprinted in Kuhn (1977).
 

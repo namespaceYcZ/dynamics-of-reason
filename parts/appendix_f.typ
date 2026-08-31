@@ -1,6 +1,6 @@
 #import "../glossary.typ": *   // 导入所有定义
 #import "../common.typ": *   // 导入所有定义
-= 附录E：关于#friedman()诉诸#communicative_rationality()和探究共同体的理性主义基础的问题
+= 附录F：关于#friedman()诉诸#communicative_rationality()和探究共同体的理性主义基础的问题
 
 问：面对相对主义（例如爱丁堡学派）对理性主义的攻击，特别是将科学探究活动降为局部的、没有普适标准的文化活动之一，#kuhn()的对策是诉诸精确性、间接性等价值观，但#friedman()也准确地指出，#kuhn()给出的价值并不如他自己想象的那样普适，并且相当晚近。#friedman()自己给的对策是，诉诸#communicative_rationality()，认为科学探究活动要求科学探究共同体遵循#communicative_rationality()要求的规则，例如放下偏见、不使用暴力、使用修饰言辞和共享的、彼此可接受的推理原则，尝试互相理解达成自愿共识。这事实上，是提供了一个更高层次的、非形式化的“元框架”，那么，针对任何一种元框架的追问同样会随之而来：“#communicative_rationality()”自身的基础又是什么？探究共同体为何要遵循这种要求？针对这一追问，可以想象的应对路径有这几条：1. 像卡尔纳普一样， 声称这“仅仅是建议”，但建议总要有理由，这同样是伪装成建议的断言；2. 像康德一样声称#communicative_rationality()的基础和几何一样，源自心智的先天形式，或者像霍普一样，断言违背#communicative_rationality()就会陷入施为矛盾，从而使#communicative_rationality()的要求作为先天综合命题，成为科学探究的静态的、先天的起点；3. 承认这一元框架的选择同样也是局部的、相对的，从而再次滑向相对主义，为理性主义的辩护宣告失败。
 

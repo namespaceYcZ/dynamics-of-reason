@@ -514,17 +514,17 @@ My third point is even more speculative. I here want to observe that there has b
 
 *The Chemical Revolution*. Lavoisier's creation of a new system of  chemistry, based on a radically new conception of combustion and calcination opposing the then dominant phlogiston theory, does not fit neatly into the present account of revolutionary paradigm shifts. The main conceptual  innovation did not involve a radically new application of a (possibly novel) mathematical structure, and so constitutive and coordinating principles of the kind we have focussed on did not figure essentially in the new conceptual framework. Nevertheless, Lavoisier's revolution did involve a new application of what is plausibly an a priori constitutive principle of classical mathematical physics, namely, the principle of the exact conservation of the quantity of matter; and it thereby introduced rigorous experimental methods, based on a precise use of the balance, into the exact tracking of all products and agents (including especially gaseous ones) involved in chemical reactions. What I want to emphasize here, however, are two important ways in which the  chemical revolution of the late eighteenth century is also interestingly connected with some of the central elements of our present story. 
 
-In the first place, the chemical revolution played a very important role in Kant's attempt to comprehend the radical scientific changes taking place around the turn of the century within the already estabUshed framework of his overall philosophical system - including both the *Critique of Pure Reason* of 1781 (revised in 1787) and the *Critique of Judgement* of 1790. In the period of the two editions of the *Critique of Pure Reason* Kant took phlogistic chemistry as his model for that discipline and, at the same time, denied full scientific status to chemistry. But in the following years Kant gradually assimilated the new discoveries associated with the work of Lavoisier, came to view chemistry as finally estabUshed as a genuinely scientific discipline, and strove to modify his preceding model of science accordingly. In fact, in the years from 1796 almost until his death in 1804 Kant was working on sketches and drafts of a new philosophical work, entitled *Transition from the Metaphysical  Foundations of Natural Science to Physics*, where, among other things, he was very intensively occupied with the totality of scientific problems and discoveries variously associated with the chemical revolution. Kant never brought this projected work to completion; but we can here see, nonetheless, how the  original Kantian (meta-)framework was already strained to the limit by the new turn-of-the-century scientific developments - developments which  eventually led to the decisive overthrow of the Kantian (meta-)framework at the beginning of the next century.（此处有原注64：For discussion of Kant's late work (collected together in what we now know as the *Opus postumum*) on the *Transition* project and the chemical revolution see Friedman (1992, chapter 5). 65. See again Kuhn (1976/77).）
+In the first place, the chemical revolution played a very important role in Kant's attempt to comprehend the radical scientific changes taking place around the turn of the century within the already established framework of his overall philosophical system - including both the *Critique of Pure Reason* of 1781 (revised in 1787) and the *Critique of Judgement* of 1790. In the period of the two editions of the *Critique of Pure Reason* Kant took phlogistic chemistry as his model for that discipline and, at the same time, denied full scientific status to chemistry. But in the following years Kant gradually assimilated the new discoveries associated with the work of Lavoisier, came to view chemistry as finally estabUshed as a genuinely scientific discipline, and strove to modify his preceding model of science accordingly. In fact, in the years from 1796 almost until his death in 1804 Kant was working on sketches and drafts of a new philosophical work, entitled *Transition from the Metaphysical  Foundations of Natural Science to Physics*, where, among other things, he was very intensively occupied with the totality of scientific problems and discoveries variously associated with the chemical revolution. Kant never brought this projected work to completion; but we can here see, nonetheless, how the  original Kantian (meta-)framework was already strained to the limit by the new turn-of-the-century scientific developments - developments which  eventually led to the decisive overthrow of the Kantian (meta-)framework at the beginning of the next century.（此处有原注64：For discussion of Kant's late work (collected together in what we now know as the *Opus postumum*) on the *Transition* project and the chemical revolution see Friedman (1992, chapter 5). 65. See again Kuhn (1976/77).）
 
-This brings me to my second point. The chemical revolution played a  central role in the initial stages of what I referred to, in Lecture III, as the "second scientific revolution" (Part One, note 62 above). For it was here that  quantitative accuracy and precision was first introduced into experimental practice in a wide variety of related fields, including chemistry (along with the theory of gases), the theory of heat, electricity, and magnetism. And it was precisely these developments, moreover, that led to the formulation of radically new styles of theorizing in mathematical physics - including the wave theory of light, thermodynamics and statistical mechanics, and James Clerk Maxwell's theory of the electro-magnetic field-whereby the disciplines Kuhn has called "Baconian" sciences were finally incorporated within the type of  mathematical theorizing long associated with the "classical" sciences.（此处有原注：See again Kuhn (1976/77). ）But the most important point, in our present context, is that it was also precisely these developments which comprised the indispensable background to the two great revolutions of twentieth century mathematical physics: relativity and quantum mechanics. Indeed, both twentieth century revolutions arose directly from late nineteenth century attempts to comprehend the interaction of light (more generally, electro-magnetic radiation) with matter, as this interaction was used to probe the new atomic perspective on the micro- structure of matter first opened up in the chemical revolution.（此处有原注66：The indispensable background to relativity is Lorentz's theory of the electron, which, among other things, explains the interaction between electro-magnetic radiation and matter in terms of resonant frequencies of electrons bound in an atom resulting from (as well as contributing to) such interaction. The indispensable background to quantum mechanics is of course the original Bohr model of the atom, with its explanation of atomic spectra. And it is quantum mechanics as well that completes the chemical revolution, by giving a physical explanation of both the periodic table of elements and electronic valence. All of these modern contributions to atomic theory have their roots in John Dalton's early nineteenth century chemical atomism, which further exploits Lavoisier's use of the balance via the fundamental law of combining proportions. ）The  chemical revolution - and, more generally, the "second scientific revolution" of which it was an integral part - is therefore intimately intertwined with our present account at both ends: with Kant's attempt to extend the reach of his own philosophical (meta-)framework to the emerging new sciences at the turn of the nineteenth century, and with the great conceptual revolutions of the early twentieth century that conclusively signalled the downfall of Kant's original (meta-)framework and the consequent need for its fundamental modification.
+This brings me to my second point. The chemical revolution played a  central role in the initial stages of what I referred to, in Lecture III, as the "second scientific revolution" (Part One, note 62 above). For it was here that  quantitative accuracy and precision was first introduced into experimental practice in a wide variety of related fields, including chemistry (along with the theory of gases), the theory of heat, electricity, and magnetism. And it was precisely these developments, moreover, that led to the formulation of radically new styles of theorizing in mathematical physics - including the wave theory of light, thermodynamics and statistical mechanics, and James Clerk Maxwell's theory of the electro-magnetic field-whereby the disciplines Kuhn has called "Baconian" sciences were finally incorporated within the type of  mathematical theorizing long associated with the "classical" sciences.（此处有原注65：See again Kuhn (1976/77). ）But the most important point, in our present context, is that it was also precisely these developments which comprised the indispensable background to the two great revolutions of twentieth century mathematical physics: relativity and quantum mechanics. Indeed, both twentieth century revolutions arose directly from late nineteenth century attempts to comprehend the interaction of light (more generally, electro-magnetic radiation) with matter, as this interaction was used to probe the new atomic perspective on the micro- structure of matter first opened up in the chemical revolution.（此处有原注66：The indispensable background to relativity is Lorentz's theory of the electron, which, among other things, explains the interaction between electro-magnetic radiation and matter in terms of resonant frequencies of electrons bound in an atom resulting from (as well as contributing to) such interaction. The indispensable background to quantum mechanics is of course the original Bohr model of the atom, with its explanation of atomic spectra. And it is quantum mechanics as well that completes the chemical revolution, by giving a physical explanation of both the periodic table of elements and electronic valence. All of these modern contributions to atomic theory have their roots in John Dalton's early nineteenth century chemical atomism, which further exploits Lavoisier's use of the balance via the fundamental law of combining proportions. ）The  chemical revolution - and, more generally, the "second scientific revolution" of which it was an integral part - is therefore intimately intertwined with our present account at both ends: with Kant's attempt to extend the reach of his own philosophical (meta-)framework to the emerging new sciences at the turn of the nineteenth century, and with the great conceptual revolutions of the early twentieth century that conclusively signalled the downfall of Kant's original (meta-)framework and the consequent need for its fundamental modification.
 
-*The Darwinian Revolution*. These far-reaching developments in late  nineteenth century biology have even less of a direct connection with our present philosophical framework. The primary innovations in this case were not mathematical in nature, and so there is no question at all here of coordinating or (more generally) constitutive principles in our sense. Nevertheless, as in the case of the chemical revolution, there are still indirect connections with some of the most important events highlighted in the present account, both within the sciences and at the philosophical or meta-scientific level. And these connections, I believe, shed further fight on our present philosophical  predicament vis-a-vis the sciences.
+*The Darwinian Revolution*. These far-reaching developments in late  nineteenth century biology have even less of a direct connection with our present philosophical framework. The primary innovations in this case were not mathematical in nature, and so there is no question at all here of coordinating or (more generally) constitutive principles in our sense. Nevertheless, as in the case of the chemical revolution, there are still indirect connections with some of the most important events highlighted in the present account, both within the sciences and at the philosophical or meta-scientific level. And these connections, I believe, shed further fight on our present philosophical predicament vis-a-vis the sciences.
 
 In the first place, Kant's attempt, in the *Critique of Judgement*, to explain how the physical sciences and the life sciences can be comprehended within a common philosophical (meta-)framework was an important part of the background to the late nineteenth century revolution in biology. In  particular, Kant's attempt to show, in his terms, how mechanism and teleology can be consistently fitted together within a single unified picture of the natural world supplied an important model for a non-reductionist but also non- vitalist approach to the relationship between biology and physics.  Accordingly, Kant's work in the *Critique of Judgement* was a central part of the background for the assimilation of the emerging new evolutionary ideas, especially in Germany where a teleological understanding of evolution was particularly prevalent.（此处有原注67：For discussion of this German context see Lenoir (1982).） Since, as we have just seen, Kant's work in the *Critique of Judgement* also served as a focus for his attempt to comprehend the emerging new ideas in the physical sciences as well (where, in particular, the relationship between what Kant calls constitutive and regulative principles became a crucially important issue),（此处有原注68：For discussion of this issue in the context of the Opus postumum see Friedman (1992, chapter 5, section II). Compare also Part One, note 77 above.）it also provided a turn-of-the-century focal point for the relationship between these ideas and the life sciences as well.
 
-In the second place, the question of the relationship between the physical and the life sciences played a key role in some of the nineteenth century developments we have already reviewed constituting the indispensable  background to the development of Einsteinian relativity theory. Helmholtz's work in the foundations of geometry, in particular, was framed within his own contributions to the emerging new science of psycho-physics - a science which, as its very name suggests, was explicitly intended to bridge the  traditional philosophical gulf between matter and the mind. In particular, Helmholtz took his neo-Kantian perspective on space perception and the principle of causality (the lawfulness of nature) to show that and how the mind (and more generally life) can be fully integrated within the picture of the world due to mathematical physics and, simultaneously, as supplying the necessary or "transcendental" constitutive framework for this very same physical world-picture. More generally, all the great contributors to  nineteenth century psycho-physics - including, besides Helmholtz, Johannes Miiller, Gustav Fechner, Ewald Hering, and Ernst Mach - understood  themselves to be standing on the threshold of a new intellectual era in which physics, psychology, and biology were finally to be united within a single  rigorous scientific framework.
+In the second place, the question of the relationship between the physical and the life sciences played a key role in some of the nineteenth century developments we have already reviewed constituting the indispensable  background to the development of Einsteinian relativity theory. Helmholtz's work in the foundations of geometry, in particular, was framed within his own contributions to the emerging new science of psycho-physics - a science which, as its very name suggests, was explicitly intended to bridge the  traditional philosophical gulf between matter and the mind. In particular, Helmholtz took his neo-Kantian perspective on space perception and the principle of causality (the lawfulness of nature) to show that and how the mind (and more generally life) can be fully integrated within the picture of the world due to mathematical physics and, simultaneously, as supplying the necessary or "transcendental" constitutive framework for this very same physical world-picture. More generally, all the great contributors to  nineteenth century psycho-physics - including, besides Helmholtz, Johannes Müller, Gustav Fechner, Ewald Hering, and Ernst Mach - understood  themselves to be standing on the threshold of a new intellectual era in which physics, psychology, and biology were finally to be united within a single  rigorous scientific framework.
 
-In the work of Hering and Mach, however, the theory of space perception took a more explicitly evolutionary turn that was fundamentally opposed to Helmholtz's original conception. For Helmholtz, our representation of space is fully learned or acquired by what he conceived of as an individual  adaptation, in that, according to Helmholtz's "empiricist" theory of perception, each individual acquires the representation of space within its own lifetime, and there is absolutely no inheritance, in this regard, from previous generations. But Hering and Mach explicitly defended the opposing "nativist" position, according to which the representation of space is largely "wired-in" to  individual physiology at birth and is therefore subject to a truly evolutionary adaptation extending across many generations.（此处有原注69：For discussion of this nineteenth century psycho-physiological debate between "empiricism" and "nativism" see Turner (1994). As Hatfield (1990, Appendix A) is careful to point out, this debate should not be confused with the traditional philosophical debate between "empiricism" and "rationalism." Indeed, from a philosophical point of view, it is clearly Helmholtz who is more of a "rationalist," Mach who is more of an "empiricist." ）And it was precisely this pycho-physiologicaJ position, in turn, that formed the indispensable  background for Mach's contrasting, less Kantian and more pragmatically naturalistic conception of scientific epistemology, according to which all of the sciences (including the mathematical and physical sciences) are  constituents of a fundamentally biological evolutionary process aiming at a holistic adaptation of the human race to its natural environment.（此处有原注70：Here I am especially indebted to discussions with Paul Pojman, whose dissertation on this topic is Pojman (2000). As Pojman points out, both Hering and Mach operated within the more explicitly teleological German understanding of evolution and, in addition were both Lamarcki- ans. For Mach, this made cultural and historical evolution continuous with biological evolution. I am also indebted to Michael Heidelberger and Rasmus Winther for discussion of these matters. ）Moreover, a closely related epistemological perspective also framed the development of American pragmatism - as is particularly evident in the work of Charles Sanders Peirce, where a characteristically late nineteenth century view of both nature and science, as a part of nature, developing according to (probabilistic or "tychistic") evolutionary processes, is searchingly and imaginatively explored.（此处有原注71：This viewpoint is most explicitly developed in a series of five papers originally published in *The Monist* in 1891-92: see Hartshorne and Weiss (1931-35, vol. 6, §§ 7-65, 102-63, 238-71, 287- 317). I am indebted to Elisabeth Lloyd, and also to Peter Godfrey-Smith, for discussions of the relationship between evolutionary biology and American pragmatism. ）
+In the work of Hering and Mach, however, the theory of space perception took a more explicitly evolutionary turn that was fundamentally opposed to Helmholtz's original conception. For Helmholtz, our representation of space is fully learned or acquired by what he conceived of as an individual  adaptation, in that, according to Helmholtz's "empiricist" theory of perception, each individual acquires the representation of space within its own lifetime, and there is absolutely no inheritance, in this regard, from previous generations. But Hering and Mach explicitly defended the opposing "nativist" position, according to which the representation of space is largely "wired-in" to  individual physiology at birth and is therefore subject to a truly evolutionary adaptation extending across many generations.（此处有原注69：For discussion of this nineteenth century psycho-physiological debate between "empiricism" and "nativism" see Turner (1994). As Hatfield (1990, Appendix A) is careful to point out, this debate should not be confused with the traditional philosophical debate between "empiricism" and "rationalism." Indeed, from a philosophical point of view, it is clearly Helmholtz who is more of a "rationalist," Mach who is more of an "empiricist." ）And it was precisely this pycho-physiological position, in turn, that formed the indispensable  background for Mach's contrasting, less Kantian and more pragmatically naturalistic conception of scientific epistemology, according to which all of the sciences (including the mathematical and physical sciences) are  constituents of a fundamentally biological evolutionary process aiming at a holistic adaptation of the human race to its natural environment.（此处有原注70：Here I am especially indebted to discussions with Paul Pojman, whose dissertation on this topic is Pojman (2000). As Pojman points out, both Hering and Mach operated within the more explicitly teleological German understanding of evolution and, in addition were both Lamarckians. For Mach, this made cultural and historical evolution continuous with biological evolution. I am also indebted to Michael Heidelberger and Rasmus Winther for discussion of these matters. ）Moreover, a closely related epistemological perspective also framed the development of American pragmatism - as is particularly evident in the work of Charles Sanders Peirce, where a characteristically late nineteenth century view of both nature and science, as a part of nature, developing according to (probabilistic or "tychistic") evolutionary processes, is searchingly and imaginatively explored.（此处有原注71：This viewpoint is most explicitly developed in a series of five papers originally published in *The Monist* in 1891-92: see Hartshorne and Weiss (1931-35, vol. 6, §§ 7-65, 102-63, 238-71, 287- 317). I am indebted to Elisabeth Lloyd, and also to Peter Godfrey-Smith, for discussions of the relationship between evolutionary biology and American pragmatism. ）
 
 Yet the further development of the physical sciences in the early twentieth century by no means conformed to this late nineteenth century  "pan-biological" vision. We instead saw the creation of extraordinarily abstract  mathematical theories (relativity and quantum mechanics), self-consciously designed to move further and further from any natural connection at all with human intuition or ordinary sensory experience. Indeed, in light of our discussion at the end of section 4 above, the fundamental problem here can be identified rather precisely. The entire late nineteenth century discussion of space  perception, against the background of contemporaneous developments in  biology and psycho-physics, is explicitly framed within the Helmholtzian theory of free mobility. But this theory, of course, is limited to spaces of constant  curvature and is thus quite inapplicable to the radically new (space-time)  structure employed in the general theory of relativity. The characteristically late nineteenth century attempt to unify biology and psycho-physiology with the underlying mathematical framework of fundamental physical theory  therefore breaks down at this point, and we are left instead with a new,  characteristically twentieth century conception of physical theorizing that aligns it with modern abstract mathematics - and even with modern mathematical logic - rather than with any concurrent developments within the life sciences.
 
@@ -634,7 +634,7 @@ Horwich, P., ed. (1993) _World Changes: Thomas Kuhn and the Nature of Science_. 
 
 Howard, D. and J. Stachel, eds. (1989) _Einstein and the History of General Relativity_. Boston: Birkhauser. 
 
-Kohnke, K. (1986) _Entstehung und Aufstieg des Neukantianismus: die deutsche Universitatsphilosophie zwischen Idealismus und Positivismus_. Frankfurt: Suhrkamp. Translated (partially) as The Rise of Neo-Kautianistn. Cambridge: Cambridge University Press, 1991.
+Köhnke, K. (1986) _Entstehung und Aufstieg des Neukantianismus: die deutsche Universitatsphilosophie zwischen Idealismus und Positivismus_. Frankfurt: Suhrkamp. Translated (partially) as The Rise of Neo-Kautianistn. Cambridge: Cambridge University Press, 1991.
 
 Kuhn, T. (1959) "Energy Conservation as an Example of Simultaneous Discovery." In M. Clagett, ed. _Critical Problems in the History of Science_. Madison: University of Wisconsin Press, 1959. Reprinted in Kuhn (1977).
 
@@ -733,3 +733,444 @@ Westfall, R. (1971) _Force in Newton's Physics: The Science of Dynamics in the S
 Wigner, E. (1961) "Remarks on the Mind-Body Question." In I. Good, ed. _The Scientist Speculates_. London: Heinemann. Reprinted in Symmetries and Reflections. Bloomington: Indiana University Press, 1966.
 
 Wittgenstein, L. (1922) _Tractatus Logico-Philosophiats_. London: Routledge. 
+
+# Index
+a priori 
+    and empirical possibility, 84 
+    and linguistic frameworks, 17 
+    and logical possibility, 84 
+    and Newtonian synthesis, 10,14,25-26,35,48,88 
+    and non-Euclidean geometry,27-28 
+    and paradigms, 10-11,14 
+    and the transcendental, 8,9,25-26 
+    constitutive, 14,30,31,33,37,39-40,56,66,71-74,81,83,84,86,92,96,98,105,117,119,124 
+    relativized, 14,30-31,32,41-43,45-46,47,56,71,79,92,96,117,123
+
+Allison, H., 66
+
+analytic/synthetic distinction, 25-26,29,31-33,40,72,82,85,99 
+    see also Carnap; Quine
+
+Aristotelian(-Scholastic) natural philosophy, 51,55,59,60, 63,66,75,76,102,119,120,121 
+
+Aristotle, 3,29,59,102 
+
+Arntzenius, F.,86 
+
+axioms of coordination 
+    see coordinating principles 
+
+Barnes, B., 49,50 
+
+Bellone, E., 52 
+
+Bell's inequality, 123 
+
+Belot,G.,86
+
+Benacerraf, P.,123 
+
+Bertoloni Meli, D., 39 
+
+Birkhoff,G.,i23 
+
+Bloor, D., 49,50 
+
+Bohr, N., 120,121,122,123,125 
+
+Boltzmann,L., 12 
+
+Brittan, G., 74 
+
+Buber, M.,3 
+
+Carnap, R., 3 
+    and conventionalism, 30 
+    and Kuhn, 18-19,22,41-43,56-57 
+    and linguistic frameworks, 31-33,41-43,47. 53,56-57,72,82,85,99,123 
+    and Quine, 31,33,40-41 
+    and Reichenbach,32,73 
+    and scientific philosophy, 17,40 
+    and Vienna Circle, 15 
+    and Wittgenstein, 15-18 
+    Logical Syntax of Language, 16,82 
+
+Cassirer, E.,3,65,66 
+
+Cartan, E., 91 
+
+Clarke, S., 106 
+
+Cohen, I., 35,39 
+
+conceptual frameworks 
+    and relativism, 49,50,51-53,55-57.58,93,94,95,97,117 
+    and revolutions, 40,41,45-46,47-48,64,66,86,105,108,111-115,118,126
+    structure of, 36-37,39,51,56,57,58-60,64,66,99,100,101,108,111-113,115,120
+    see also paradigm shifts 
+
+constitutive frameworks, 33,62-63,66,78,83-85,89,90,92,93-99,101,106,107,118,127
+constitutive principles
+    and chemistry, 124 
+    and communicative rationality, 55-56,93,94,96,118 
+    and general relativity, 32,78,79,91,92,100 
+    and life sciences, 126,127
+    and linguistic frameworks, 32-33,40,41,56,60,62-63,72-73.77-79 
+    and quantum mechanics, 122,123 
+    and regulative principles, 64,65-68 
+    and special relativity, 77,90,101 
+    as paradigms, 45,48,53,74-75.83-85.86-91,95,96,99,101,109,117 
+    vs. empirical laws, 32-33.37.43.45-46,71,97-98
+
+conventionalism, 14,16,23,30,79,88,91,102,110,111,114 
+convergence
+    and rationality, 6o, 63,64-65 
+    and truth, 67-68,118 
+    see also rationality, communicative 
+coordinating principles 
+    function of, 81,82,93,105,107,111,119 
+    in chemistry, 124 
+    in general relativity, 32,77,78,79,80,84,85,91,92,98,99,100,101,102,103,113 
+    in life sciences, 126 
+    in Newtonian physics, 76,77,80,88,90,92 
+    in quantum mechanics, 122,123 
+    in special relativity, 77,87-88,90,102 
+Copernicanism, 9,67
+
+Creath, R., 31 
+
+Dalton,J., 125 
+
+Darwin, C, 29 
+
+Darwinian, 119,126,129 
+
+De Pierris, G., 31,73,118 
+
+Descartes, R., 3,4,8,21,23,26,44,67,106 
+
+Dewey, J., 3 
+
+DeWitt, B.,121 
+
+Dickson, M., 20 
+
+DiSalle, R., 39,76,79,89,90 
+
+Duhem, P., 33,72,81,85,94 
+
+Earman,J.,18,38 
+
+Edgerton, S., 23 
+
+Ehlers,J.,79,97 
+
+Einstein, A., 3 
+    and geometry, 27,29,30,37,111,113-115,121 
+    and gravitation, 27-28,45,59,71,78,80,105,112 
+    and Helmholtz, 27 
+    and Poincare, 23,27 
+    and relativity as conceptual framework, 21,23,33,37-40,52,61-62,83-91,94-95,100-103,107-108,113-114,119,121 
+    and Schlick, 12,14 
+    see also geometry; possibility; relativity 
+
+Eotvos, L., 86,89,91 
+
+Euclid, 27 
+
+Euler, L., 106,107 
+
+Everett, H., 121 
+
+Fechner, G., 127 
+
+Fitzgerald, G., 61,88,101 
+
+Galileo, 9,23,39,61,66,102 
+
+Gassendi, P., 44 
+
+geometry 
+    and conventionalism, 23 
+    and general relativity, 28,30-31,37,39-40,59,63,78-79,90-91,108,112-115 
+    and the a priori, 8,14,73,117 
+    as constitutive a priori, 30 
+    Euclidean, 12,16,25,27,28,29,30,37,38,59,60,62,63,66,67,71,75,77,78,80,96,97,99,109,111,127 
+    non-Euclidean, 29,45, no, 112-115,121,127
+
+Gleason's theorem, 123 
+
+Godfrey-Smith, P., 118,128 
+
+Goodman, N., 82
+
+Graham, N., 121 
+
+Guicciardini, N., 39 
+
+Habermas, J., 53,54,56,93,94,95
+    see also rationality, communicative 
+
+Hartshorne, C, 64,128 
+
+Hatfield, G., 109,127 
+
+Heidelberger, M., 60,128 
+
+Heisenberg, W., 120,121 
+
+Helmholtz, H., 3 
+    and free mobility, 29,109 
+    and geometry, 29,45,62,67,78,108-110,111,114,127 
+    and Kant, 5,7,13,21,30,111 
+    and Naturphilosophie, 6 
+    and Poincare, 4,21,27,30,45,62,67,78,108,110, in, 114,121 
+    and post-Kantian idealism, 5 
+    and psycho-physics/physiology, 5,6,13,127 
+    and psychology, 7,41,43,127 
+    and scientific philosophy, 5,6
+
+Hering, E., 127,128 
+
+Hertz, P., 7,109 
+
+Heyting,A., 123 
+
+Hobbes,T., 44 
+
+holism, 32,33,35,37,40,43,71,72,74,80,81,82,85,117 
+    see also Duhem; Quine 
+
+Hooke's law, 88,89 
+
+Huygens, C, 39,44,106 
+
+incommensurability, 52,56,60,63,93,95,98,99,100,101,117,119 
+
+internal vs. external questions, 17,18,22,31,32,42,47,56,63,67,75,102,118,122
+    see also linguistic frameworks
+
+Kant, I. 
+    and absolute space, 10,11,27,76 
+    and action at a distance, 10,11,27,38 
+    and constitutive principles, 30-31,31,36-37,43,45,48,53,57,62,64-65,73,77-78,84,87,90,117 
+    and Helmholtz, 5,7,13,21,30,111 
+    and intuitive space, 30,78,109 
+    and laws of nature, 3,7,9 
+    and Newtonian physics, 10,11,25-27,30-37,48,53,77-78,90,106,118 
+    and philosophy as meta-science, 13,14,17,21,124-125,126 
+    and post-Kantian idealism, 5,6 
+    and rationality, 8-11,14,28,47-48,53,55,57,117-118,119 
+    and scientific philosophy, 5,20-21,45 
+    and the a priori, 8,12,16,35,43,73,84 
+    and the transcendental, 7,8,45
+
+Köhnke,K., 6 
+Kuhn,T., 6,125 
+    and Carnap, 18-19,22,41-43,56-57 
+    and paradigms, 19-22,41-44,45,55,58,100 
+    and rationality, 47-48,50-51,53,55-57,58-60,93-96,117-118 
+    and relativism, 47-49,50-53,57,93,94-96,117 
+    and scientific philosophy, 4,43 
+    The Structure of Scientific Revolutions, 4,18-19,59,60,118 
+    see also revolutions, scientific 
+
+Lange,I.., 76,106 
+
+Lavoisier, A., 119,124,125 
+
+Leibniz, G., 3,4,8,26,44,106,107 
+
+Lenoir, T., 126 
+
+Lewis, C, 3,74 
+
+Lie, S., 13,73,109,110 
+
+linguistic frameworks, 17,22,31,32,40,41,53,54,55,56,72,82,99,100,101,123 
+    see also Carnap 
+
+Lipschitz,R., 80
+
+Lloyd, E., 128
+ 
+Lorentz-Fitzgerald theory, 23,87,89 
+    see also relativity, special 
+
+Liitzen, J., 80 
+
+Mach, E., 3,12,14,106,107,121,127,128 
+
+Malament, D., 97 
+
+Marburg School, 65,66,68 
+
+Maxwell, J., 125 
+
+McDowell, J., 85 
+
+Michelson-Morley experiment, 86,87,89 
+
+Miller, A., 23,111 
+
+Minkowski, H., 62,90,112-113 
+
+Misner, C.,86 
+
+More, H., 44 
+
+Morris, C, 18,40 
+
+Muhlholzer,F., 84 
+
+Muller, J., 6,127 
+
+Neumann, C, 76 
+
+Newman, W., 61 
+
+Newton, I., 29,67,107 
+    and absolute space, 10,11,27,36,76 
+    and action at a distance, 10,27,38,89,106 
+    and calculus, 35,39 
+    and gravitation, 26-27,28,35,36,37,44,45,59,83,84,90,91-92,94,95,97-98,106,114,115,119 
+    and laws of motion, 10,25,26-27,37,60,71,76-78,80,87,88,89,90,98,102,106,122 
+    and mathematical physics, 10,14,19,20,21,25,27,28,30,35,36-37,48,52,64,65,71,74,79,89,90,101,108,118,119 
+    see also revolution, Newtonian 
+
+Norton, J., 90,113,115 
+
+Pap, A., 74,88,89 
+
+paradigm shirts 
+    see revolution 
+
+Parrini, P.,79 
+
+Peirce, C, 64,68,119,128 
+
+Planck, M., 12 
+
+Poincare, H.,3 
+    and conventionalism, 14,16,23,30,79 
+    and geometry, 14,16,23,27,30,45,62,67,78,108,114 
+    and Helmholtz, 4,21,27,45,62,67,78,108,110,11,114,121 
+    and holism, 33 
+    and relativity, 21,23,27,61,62,101,108,114 
+
+Pojman, P., 128 
+
+possibility 
+    conditions of, 9,12,25,26,37,73,74,109 
+    see also a priori 
+    empirical (real), 23,59,84,85,92,93,96,99,100,101,103,108,113,114,115 
+    logical, 24,46,84,85,93,96,97,99,100,113,118 
+
+psychology, 7,12,13,24,41,43,44,127 
+
+psycho-physics/physiology, 5,6,13,127,128 
+
+Putnam, H., 123 
+
+quantum mechanics, 22,29,80,119,120,121,122,123,125,128 
+
+Quine,W., 3,88,i23 
+    and Carnap, 33,40-41,43,82, 
+    and holism, 28-29,32,33-35,39-41,43,81-82 
+    "Two Dogmas of Empiricism", 32-33 
+rationality 
+    communicative, 53,54,55,56,57,58,64,66-68,93,94,95,96,99,101,103,105,107,117-119 
+    instrumental, 18,50,53,54,55,56,83,85,93,94,95 
+    and Kant, 8-11,14,28,47-48,53,55,57.117-118,119 
+    and relativism, 47-48,50-51 
+    see also convergence; Habermas, J. 
+Rawls J.,54 
+
+Reichenbach, H. 
+    and axioms of coordination/connection, 32,39,76,78-79,82 
+    and constitutive a priori, 30,33,42,73 
+    and Einstein, 114 
+    and relativity, 30 
+    The Theory of Relativity and A Priori 
+    Knowledge, 72,76 
+
+Reisch,G., 18,42 
+
+relativity, theory of, 12,21,125,127,128 
+    and the equivalence principle, 37,38,39,40,64,71,79,80,81,84,86,87,89-91,92,94,97,98,99,100,101,102,103,107,112,113,115,122 
+    and the light principle, 71,79,80,84,86-89,90,91,92,101,107 
+    as conceptual framework 
+    see Einstein 
+    general, 16,27-28,30,31,37-39,39-40,59,63,78,79,80,83,84,85,90,91,92,97,101,103,108,111,112,113,115,128 
+    special, 19,23,38,52,58,59-60,62,63,77,79,86-89,90,91,92,103,108,111,112,114,115,119,120,123 
+revolution 
+    chemical, 124-126 
+    conceptual 
+    see conceptual frameworks, and 
+    revolutions 
+    Darwinian, 126-129 
+    Einsteinian, 23,29,61-63 
+    Kantian, 12 
+    Newtonian, 35,44 
+    quantum mechanical, 120-128 
+    scientific, 22-23,44~46,50-52,55-57,58, 
+    95,96,100,119 
+    second scientific, 52,55,61 
+
+Richards, J., 109 
+
+Riemann, B., 37,38,80,109,113 
+
+Rorty,R., 58 
+
+Schaffer. S., 49 
+
+Schilpp,P.,3,114 
+
+Schlick, M, 7,12,13,14,15.18,30,78,79,82,109 
+
+Sellars,W.,85 
+
+Shapin S., 49 
+
+Spinoza, B., 44 
+
+Stachel, J.,90,112 
+
+Stein, H., 38,90,91,109 
+
+Strawson, P., 74 
+
+Tanona, S., 122 
+
+Tarski, A., 31 
+
+Thomson, J., 76,106 
+
+Thome, K., 86 
+
+Torretti, R., 76,109,110 
+
+Turner, R., 127 
+
+van Fraassen, B., 74,84 
+
+Vienna Circle, 12,14,15,16 
+
+Voeller, C, 84 
+
+von Neumann, J., 122,123 
+
+Weiss, P., 64,128 
+
+Wien,M., 16 
+
+Westfall,R., 102 
+
+Wheeler, J., 86 
+
+Wigner, E., 120,121 
+
+Winther, R., 128 
+
+Wittgenstein, L., 14,15,17,85 
