@@ -1,6 +1,6 @@
 #let blank = [\ ] + " " * 4 // 或 sym.dash.em * 3
 = 原书索引
-（因中英文排序与页码体系差异，这里仅原书索引。）
+（因中英文排序与页码体系差异，这里仅列出原书索引。）
 #columns(2, gutter: 8% + 12pt)[
   #set par(justify: false)      // 短行不需要两端对齐
   #set text(size: 9pt)          // 索引字号通常小一些
