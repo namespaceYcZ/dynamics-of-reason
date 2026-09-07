@@ -44,13 +44,7 @@
   4. 共同的问题源头
   #immanuel_kant()（Immanuel Kant）：所有人都在回应他。他提出了“#synthetic_a_priori_judgment()”（科学必须依赖某种#a_priori()框架）。#logical_empiricism()试图*用逻辑和约定*替换他的#a_priori_n()；#quine()试图*彻底消灭*他的#a_priori_n()；#kuhn()则用历史主义的范式展示了*一种不断变动的“社会化#a_priori_n()”*。
 
-  本书的论证脉络：
-
-  1. *危机*：#carnap()的逻辑构想受到#quine()（逻辑上）和#kuhn()（历史上）的双重夹击。当今哲学界（在1990年代）的共识是：#quine()赢了，#a_priori_n()框架不存在了，哲学沦为科学的附庸（自然主义）。
-  2. *导师的转向*：连他的导师#hempel()面对危机都转向了#neurath()—#quine()的自然主义路线，试图把#kuhn()解释成一种实用的整体论。
-  3. *#friedman()的方案*：他并不接受#quine()的结论，而是主张把*#carnap()的“语言框架”*和*#kuhn()的“科学革命”*结合起来。科学确实有范式转换（#kuhn()），但这恰恰证明了科学不仅有平面的经验事实，还有具有构成性作用的“#a_priori_n()框架”（#carnap()/#kant()）。只不过，这种#a_priori_n()框架不再是#kant()那里永恒不变的，而是在历史中*动态演化、相对化*的。
-
-  通过这种“#dynamic_a_priori()”，#friedman()试图同时*拯救#kant()的#a_priori_n()规范性*、*挽回#logical_empiricism()的科学逻辑分层*，并*消化#kuhn()的科学历史演变*。
+  本书的论证脉络由此清楚：#carnap()的逻辑构想同时受到#quine()（逻辑上）与#kuhn()（历史上）的夹击，1990年代的主流结论是#a_priori_n()框架不复存在、哲学沦为科学的附庸；#friedman()则主张把#carnap()的“语言框架”与#kuhn()的“科学革命”结合起来，保留构成性框架，但让它在历史中动态演化、相对化。
 ]的科学哲学发展，与科学内部——主要是逻辑、数学和数学物理学这些精密科学——同时发生的发展之间的关系。这些研究集中于#kant()与他那个时代科学的关联（例如欧氏几何和#newton()物理学），以及19世纪末20世纪初这些科学内部的革命性变革（例如非欧几何和相对论物理学）如何以各种方式促使20世纪初的#logical_empiricists()，对他们那个时代的#kantian()和#neo_kantian()哲学进行同样革命性的变革。我的主要目标是描绘科学哲学的历史发展与精密科学本身的平行演变之间深刻而复杂的联系。
 
 然而，我并没有试图从这些历史研究中为我们当代的哲学困境引出实质性的教益。事实上，我当时的主导语气相当不乐观。#kant()原初的哲学综合由于科学内部未能预见的革命性变革而失败了，而#logical_empiricists()对这一综合的激进修正，也未能公正地对待20世纪初科学中正在发生的极为迅速的变化。针对这一局面，我只提出了一个不确定的建议：我们同样应该尝试在当代哲学实践与科学自身发展之间建立富有成效的互动；以及一个悲观的结论：鉴于#kantian()和#logical_empiricism()的双重失败，我们现在根本不知道该如何着手这件事。
@@ -91,7 +85,7 @@
 此外，我还要感谢*亨利·艾利森*（Henry Allison）、*弗雷德里克·拜泽*（Frederick Beiser）、*多梅尼科·贝尔托洛尼·梅利*（Domenico Bertoloni Meli）、*保罗·博戈西安*（Paul Boghossian）、*威廉·布斯*（William Boos）、*泰勒·伯奇*（Tyler Burge）、*约翰·卡里埃罗*（John Carriero）、*安德烈·卡鲁斯*（Andre Carus）、*唐纳德·戴维森*（Donald Davidson）、*迈克尔·迪克森*（Michael Dickson）、*马修·弗兰克*（Matthew Frank）、*哈特里·菲尔德*（Hartry Field）、*阿瑟·法因*（Arthur Fine）、*艾伦·加比*（Alan Gabbey）、*阿尼尔·古普塔*（Anil Gupta）、*迈克尔·海德尔贝格*（Michael Heidelberger）、*戴维·卡普兰*（David Kaplan）、*诺蕾塔·科特格*（Noretta Koertge）、*马克·朗格*（Mark Lange）、*伊丽莎白·劳埃德*（Elisabeth Lloyd）、*埃德温·麦坎*（Edwin McCann）、*托马斯·内格尔*（Thomas Nagel）、*威廉·纽曼*（William Newman）、*卡尔文·诺莫尔*（Calvin Normore）、*戴维·帕皮诺*（David Papineau）、*保罗·帕里尼*（Paolo Parrini）、*保罗·波伊曼*（Paul Pojman）、*艾伦·理查森*（Alan Richardson）、*西蒙·桑德斯*（Simon Saunders）、*斯蒂芬·希弗*（Stephen Schiffer）、*理查德·索伦森*（Richard Sorrenson）、*巴里·斯特劳德*（Barry Stroud）、*丹尼尔·萨瑟兰*（Daniel Sutherland）、*威廉·塔尔博特*（William Talbott）、*斯科特·塔诺纳*（Scott Tanona）、*卡罗尔·沃勒*（Carol Voeller）、*迈克尔·威廉斯*（Michael Williams）、*马克·威尔逊*（Mark Wilson）、*拉斯穆斯·温瑟*（Rasmus Winther）、*约翰·沃勒尔*（John Worrall），以及一如既往地感谢*格拉西耶拉·德·皮耶里斯*（Graciela De Pierris）。最后，我要感谢*詹姆斯·马廷利*（James Mattingly）为编制索引所做的工作。#trans-note[
   重要人名背景简注
 
-  这份名单极长，涵盖了当代英美分析哲学的多个领域。我在此仅对*与本书核心议题直接相关*的几位关键人物做简要说明：
+  名单极长，此处只对与本书核心议题直接相关的几位略作说明。
 
   哈佛大学（Harvard）
 
@@ -99,7 +93,7 @@
 
   - *Warren Goldfarb（沃伦·戈德法布）*：哈佛逻辑学与分析哲学史专家，#wittgenstein()与#logical_empiricism()研究的权威。他对#carnap()的重新解读，与#friedman()的工作高度相关。
 
-  - *Christine Korsgaard（克里斯汀·科尔斯加德）*：#kant()伦理学研究的当代领军人物。虽然她主要研究实践哲学，但#kant()哲学的整体性使得她的反馈对#friedman()的#kant()解读也有重要价值。
+  - *Christine Korsgaard（克里斯汀·科尔斯加德）*：#kant()伦理学研究的当代领军人物。
 
     多伦多大学（Toronto）
 
@@ -113,9 +107,9 @@
 
     斯坦福大学（Stanford）
 
-  - *Richard Rorty（#richard_rorty()，1931–2007）*：实用主义哲学家，以批判分析哲学传统、主张哲学的“语言学转向”之后应有“文化转向”而著称。他对“镜式心灵”与传统认识论的批判，代表了与#friedman()非常不同的后#kant()路径。#friedman()试图复兴一种动态#kantian()，而#rorty()则彻底拒绝#kant()式“#a_priori_n()反思”的整个计划。二人的对话非常重要。
+  - *Richard Rorty（#richard_rorty()，1931–2007）*：实用主义哲学家，以批判分析哲学传统、主张哲学的“语言学转向”之后应有“文化转向”而著称。他对“镜式心灵”与传统认识论的批判，代表了与#friedman()非常不同的后#kant()路径。#friedman()试图复兴一种动态#kantian()，而#rorty()则彻底拒绝#kant()式“#a_priori_n()反思”的整个计划。
 
-  - *Patrick Suppes（帕特里克·萨佩斯，1922–2014）*：科学哲学、形式科学哲学、公理化方法论的大师。他对科学理论的形式化重建，与#carnap()传统有深厚联系。
+  - *Patrick Suppes（帕特里克·萨佩斯，1922–2014）*：公理化方法论大师，其科学理论形式化重建与#carnap()传统一脉相承。
 
   - *Solomon Feferman（所罗门·费弗曼，1928–2016）*：数理逻辑学家，证明论、集合论、数学基础研究的权威。与#friedman()的关联在于：逻辑与数学基础是讨论“#a_priori_n()原则在精密科学中的作用”时不可绕过的领域。
 
@@ -123,43 +117,9 @@
 
   - *Donald Davidson（唐纳德·戴维森，1917–2003）*：分析哲学巨匠，以“根本解释理论”、行动哲学、心灵哲学、真理论著称。他的整体论与#quine()有深刻联系，但也有独特之处。他对“概念图式”（_conceptual schemes_）的批判，与#friedman()关于“框架”的讨论形成有趣的张力。
 
-  - *Thomas Nagel（托马斯·内格尔）*：以心灵哲学、主观性问题、伦理学研究著称。他对“客观性”问题的深入思考，与#friedman()关于科学理性之客观性的关切有共鸣。
-
-  - *Tyler Burge（泰勒·伯奇）*：心灵哲学、语言哲学专家，以“外在主义”（_externalism_）著称。他关于信念内容的社会维度的讨论，与#friedman()强调的“探究共同体”有潜在关联。
-
   - *Alan Richardson（艾伦·理查森）*：#logical_empiricism()史研究的新一代学者，与#friedman()在重新解读#carnap()等人方面有密切的学术对话。
 
-  这份名单的隐含信息
-
-  这份致谢名单不仅是礼节性的，它还透露了几个重要信息：
-
-  1. *跨领域的对话广度*
-
-  名单中涵盖：
-  - #kant()哲学专家（Allison, Korsgaard）
-  - #logical_empiricism()史家（Goldfarb, Richardson, Carus）
-  - 科学哲学家（van Fraassen, Hacking, Fine）
-  - 数学哲学家（Benacerraf, Feferman, Field）
-  - 科学史家（DiSalle, Bertoloni Meli）
-  - 语言哲学与心灵哲学家（Davidson, Burge, Kaplan）
-  - 实用主义与后分析哲学家（Rorty）
-
-  这说明#friedman()的工作虽然聚焦于科学哲学与#kant()哲学的交叉，但它触及的问题具有*跨领域的普遍重要性*——理性、客观性、概念变化、规范性等问题是整个哲学的核心关切。
-
-  2. *主要对话对象的分布*
-
-  从地理-机构分布看：
-  - 普林斯顿（#friedman()母校，#hempel()所在地）
-  - 斯坦福（本书出版所依托的#kant()讲座）
-  - 哈佛（#logical_empiricism()与#kant()研究重镇）
-  - 西安大略大学（科学哲学重镇，尤其是物理学哲学）
-
-  这些机构构成了当代英美科学哲学与分析哲学传统的主要学术网络。
-
-  3. *与反对者的对话*
-
-  名单中既有立场相近者（如Richardson, Carus等同样致力于重审#logical_empiricism()的学者），也有立场相异者（如van Fraassen的反实在论、Rorty的反#kantian()）。#friedman()感谢所有这些人，说明他的工作是在*真诚的哲学辩论*中打磨出来的，而不是在同温层中自说自话。
-
+  名单横跨#kant()研究、#logical_empiricism()史、科学哲学、数学哲学、科学史与语言/心灵哲学，其中既有立场相近者，也有#van_fraassen()、#rorty()这样的对立面——本书的论点是在这样的辩论中打磨出来的。
 ]
 
 *参考文献说明*。在参考文献目录中，我经常同时列出原版与再版、重印本或译本。在引文中，我会同时给出原版与后出版本的年份。在此类情况下，我常常同时给出两个版本的页码：例如“ Carnap (1934/37, pp. 245–6/pp. 317–9) ”，即分别给出原版（1934年德文版）与后出版本（1937年英文译本）的页码。在某些情况下，我只给出一组页码，该页码即指后出版本：例如“ Quine (1951/53, pp. 42–3) ”，即指（1953年）重印本《从逻辑的观点看》中“经验主义的两个教条”一文的页码。
