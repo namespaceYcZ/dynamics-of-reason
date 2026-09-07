@@ -56,7 +56,6 @@
 #let cassirer() = underline(text(style: "italic", font: "KaiTi")[卡西尔]);
 #let ewald_herin() = underline(text(style: "italic", font: "KaiTi")[埃瓦尔德·黑林]);
 #let hering() = underline(text(style: "italic", font: "KaiTi")[黑林]);
-// ── 以下人名为本次补充：正文中反复出现、此前未收录 ──────────
 #let georg_wilhelm_friedrich_hegel() = underline(text(
   style: "italic",
   font: "KaiTi",

@@ -32,7 +32,7 @@ Friedman, Michael, 1947-
 作者的规范著录形式。
 
 姓在前、名在后（Friedman, Michael）是图书馆编目惯例，便于按姓氏字母排序检索。
-1947- 是作者的生年。破折号后留空，表示著录时作者仍在世（#friedman()本人生于1947年，目前仍健在）。若作者已故，会写成如“1947–2020”的形式。
+1947- 是作者的生年。破折号后留空，表示著录时作者仍在世（#friedman()本人生于1947年，目前仍健在）。若作者已故，会写成如“1947-2020”的形式。
 
 Dynamics of reason / Michael Friedman.
 书名及责任者。
@@ -65,10 +65,10 @@ ISBN 1-57586-291-3 (alk. paper) — ISBN 1-57586-292-1 (pbk.: alk. paper)
 
 关于ISBN的前缀“1-57586-”：这是出版社标识码，对应本书的实际出版方——CSLI Publications（Center for the Study of Language and Information Publications，斯坦福大学“语言与信息研究中心”下属的出版机构）。CSLI是斯坦福#kant()讲座系列的常规出版方。
 
-1. Science–Philosophy. I. Title
+1. Science-Philosophy. I. Title
 这是主题词与检索点的著录：
 
-“1. Science–Philosophy”：本书的主题分类为“科学—哲学”，即科学哲学（Philosophy of Science）。破折号“–”是主题词表（LCSH, Library of Congress Subject Headings）中的副标目分隔符，表示“科学”这一大类下的“哲学”这一细分方向。
+“1. Science-Philosophy”：本书的主题分类为“科学—哲学”，即科学哲学（Philosophy of Science）。破折号“-”是主题词表（LCSH, Library of Congress Subject Headings）中的副标目分隔符，表示“科学”这一大类下的“哲学”这一细分方向。
 “I. Title”：罗马数字I表示这是编目中的第一个附加检索点——按书名检索。即读者不仅可以按作者查到此书，也可以直接按书名Dynamics of Reason检索到。
 
 Q175 .F892 2001

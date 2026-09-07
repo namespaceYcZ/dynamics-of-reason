@@ -41,7 +41,7 @@
 
   *后#kant()唯心论者的共同起点*正是：他们认为这种“统一”不能只是调节性的理念，而必须被*真正地、理论地实现*。
 
-#fichte()（Johann Gottlieb Fichte, 1762–1814）
+#fichte()（Johann Gottlieb Fichte, 1762-1814）
 
 #fichte()的核心策略：取消物自体，从“自我”出发
 
@@ -75,7 +75,7 @@
 - *保守的#kantian()者*认为他走得太远——取消物自体就是取消客观实在，这是赤裸裸的*主观唯心论*（把世界变成了“我”的幻觉）。
 - *#schelling()*（#fichte()的学生和早期盟友）认为#fichte()走得还不够远——他的体系过于偏重“自我”（主体性），无法真正说明*自然本身的独立性和自我组织能力*。
 
-#schelling()（Friedrich Wilhelm Joseph Schelling, 1775–1854）
+#schelling()（Friedrich Wilhelm Joseph Schelling, 1775-1854）
 
 #schelling()早年是#fichte()的忠实追随者，但很快就不满于#fichte()把一切归结为“自我”的做法。他的核心批评是：
 
@@ -105,7 +105,7 @@
 
 #schelling()面临的最大批评来自#hegel()。#hegel()的著名讽刺是：#schelling()的“绝对者”就像“黑夜中一切牛都是黑的”——你说自然和精神在“绝对者”中同一，但你从来没有*展示*这个同一性是如何通过具体的、可追踪的逻辑步骤实现的。你只是在终点处宣布“它们同一”，而没有走完中间的路。
 
-#hegel()（Georg Wilhelm Friedrich Hegel, 1770–1831）
+#hegel()（Georg Wilhelm Friedrich Hegel, 1770-1831）
 
 #hegel()试图完成#fichte()和#schelling()都没有完成的事业：*不仅宣布自然与精神的统一，而且完整地、一步一步地展示这种统一是如何通过辩证运动实现的。*
 

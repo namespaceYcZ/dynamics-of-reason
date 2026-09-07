@@ -63,7 +63,7 @@ Lorenzen、Bishop（其1967年《构造性分析基础》是里程碑）等人�
 
 ==== Curry-Howard对应（命题即类型，证明即程序）
 
-1930–1960年代逐步发现、1969年由Howard明确表述的这个对应指出：
+1930-1960年代逐步发现、1969年由Howard明确表述的这个对应指出：
 #table(
   columns: (auto, auto),
   table.header([逻辑侧], [计算侧]),
