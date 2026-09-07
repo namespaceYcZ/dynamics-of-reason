@@ -283,7 +283,7 @@
   #blank Kantian, 12
   #blank Newtonian, 35,44
   #blank quantum mechanical, 120-128
-  #blank scientific, 22-23,44~46,50-52,55-57,58,95,96,100,119
+  #blank scientific, 22-23,44-46,50-52,55-57,58,95,96,100,119
   #blank second scientific, 52,55,61\
   Richards, J., 109\
   Riemann, B., 37,38,80,109,113\
