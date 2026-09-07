@@ -56,6 +56,68 @@
 #let cassirer() = underline(text(style: "italic", font: "KaiTi")[卡西尔]);
 #let ewald_herin() = underline(text(style: "italic", font: "KaiTi")[埃瓦尔德·黑林]);
 #let hering() = underline(text(style: "italic", font: "KaiTi")[黑林]);
+// ── 以下人名为本次补充：正文中反复出现、此前未收录 ──────────
+#let georg_wilhelm_friedrich_hegel() = underline(text(
+  style: "italic",
+  font: "KaiTi",
+)[格奥尔格·威廉·弗里德里希·黑格尔]);
+#let hegel() = underline(text(style: "italic", font: "KaiTi")[黑格尔]);
+#let friedrich_schelling() = underline(text(style: "italic", font: "KaiTi")[弗里德里希·谢林]);
+#let schelling() = underline(text(style: "italic", font: "KaiTi")[谢林]);
+#let johann_gottlieb_fichte() = underline(text(style: "italic", font: "KaiTi")[约翰·戈特利布·费希特]);
+#let fichte() = underline(text(style: "italic", font: "KaiTi")[费希特]);
+#let bertrand_russell() = underline(text(style: "italic", font: "KaiTi")[伯特兰·罗素]);
+#let russell() = underline(text(style: "italic", font: "KaiTi")[罗素]);
+#let gottlob_frege() = underline(text(style: "italic", font: "KaiTi")[戈特洛布·弗雷格]);
+#let frege() = underline(text(style: "italic", font: "KaiTi")[弗雷格]);
+#let david_hilbert() = underline(text(style: "italic", font: "KaiTi")[大卫·希尔伯特]);
+#let hilbert() = underline(text(style: "italic", font: "KaiTi")[希尔伯特]);
+#let kurt_goedel() = underline(text(style: "italic", font: "KaiTi")[库尔特·哥德尔]);
+#let goedel() = underline(text(style: "italic", font: "KaiTi")[哥德尔]);
+#let brouwer() = underline(text(style: "italic", font: "KaiTi")[布劳威尔]);
+#let charles_sanders_peirce() = underline(text(style: "italic", font: "KaiTi")[查尔斯·桑德斯·皮尔士]);
+#let peirce() = underline(text(style: "italic", font: "KaiTi")[皮尔士]);
+#let galileo() = underline(text(style: "italic", font: "KaiTi")[伽利略]);
+#let bernhard_riemann() = underline(text(style: "italic", font: "KaiTi")[波恩哈德·黎曼]);
+#let riemann() = underline(text(style: "italic", font: "KaiTi")[黎曼]);
+#let hendrik_lorentz() = underline(text(style: "italic", font: "KaiTi")[亨德里克·洛伦兹]);
+#let lorentz() = underline(text(style: "italic", font: "KaiTi")[洛伦兹]);
+#let minkowski() = underline(text(style: "italic", font: "KaiTi")[闵可夫斯基]);
+#let antoine_lavoisier() = underline(text(style: "italic", font: "KaiTi")[安托万·拉瓦锡]);
+#let lavoisier() = underline(text(style: "italic", font: "KaiTi")[拉瓦锡]);
+#let henry_allison() = underline(text(style: "italic", font: "KaiTi")[亨利·阿利森]);
+#let allison() = underline(text(style: "italic", font: "KaiTi")[阿利森]);
+#let niels_bohr() = underline(text(style: "italic", font: "KaiTi")[尼尔斯·玻尔]);
+#let bohr() = underline(text(style: "italic", font: "KaiTi")[玻尔]);
+#let john_locke() = underline(text(style: "italic", font: "KaiTi")[约翰·洛克]);
+#let locke() = underline(text(style: "italic", font: "KaiTi")[洛克]);
+#let berkeley() = underline(text(style: "italic", font: "KaiTi")[贝克莱]);
+#let samuel_clarke() = underline(text(style: "italic", font: "KaiTi")[塞缪尔·克拉克]);
+#let clarke() = underline(text(style: "italic", font: "KaiTi")[克拉克]);
+#let copernicus() = underline(text(style: "italic", font: "KaiTi")[哥白尼]);
+#let ptolemy() = underline(text(style: "italic", font: "KaiTi")[托勒密]);
+#let kepler() = underline(text(style: "italic", font: "KaiTi")[开普勒]);
+#let maxwell() = underline(text(style: "italic", font: "KaiTi")[麦克斯韦]);
+#let strawson() = underline(text(style: "italic", font: "KaiTi")[斯特劳森]);
+#let von_neumann() = underline(text(style: "italic", font: "KaiTi")[冯·诺伊曼]);
+#let van_fraassen() = underline(text(style: "italic", font: "KaiTi")[范·弗拉森]);
+#let david_bloor() = underline(text(style: "italic", font: "KaiTi")[大卫·布鲁尔]);
+#let bloor() = underline(text(style: "italic", font: "KaiTi")[布鲁尔]);
+#let barry_barnes() = underline(text(style: "italic", font: "KaiTi")[巴里·巴恩斯]);
+#let barnes() = underline(text(style: "italic", font: "KaiTi")[巴恩斯]);
+#let wilfrid_sellars() = underline(text(style: "italic", font: "KaiTi")[威尔弗里德·塞拉斯]);
+#let sellars() = underline(text(style: "italic", font: "KaiTi")[塞拉斯]);
+#let richard_rorty() = underline(text(style: "italic", font: "KaiTi")[理查德·罗蒂]);
+#let rorty() = underline(text(style: "italic", font: "KaiTi")[罗蒂]);
+#let hilary_putnam() = underline(text(style: "italic", font: "KaiTi")[希拉里·普特南]);
+#let putnam() = underline(text(style: "italic", font: "KaiTi")[普特南]);
+#let john_dewey() = underline(text(style: "italic", font: "KaiTi")[约翰·杜威]);
+#let dewey() = underline(text(style: "italic", font: "KaiTi")[杜威]);
+#let alfred_north_whitehead() = underline(text(style: "italic", font: "KaiTi")[阿尔弗雷德·诺思·怀特海]);
+#let whitehead() = underline(text(style: "italic", font: "KaiTi")[怀特海]);
+#let wilhelm_dilthey() = underline(text(style: "italic", font: "KaiTi")[威廉·狄尔泰]);
+#let dilthey() = underline(text(style: "italic", font: "KaiTi")[狄尔泰]);
+
 // 以下为专有名词，并且是需要特定格式强调的专有名词
 
 #let logical_empiricism() = text(style: "italic", font: "SimHei")[逻辑经验主义];
@@ -99,3 +161,28 @@
 #let a_posteriori_n() = [后天];
 #let kantian() = [康德主义];
 #let neo_kantian() = [新康德主义];
+
+// ── 以下术语为本次补充：全书反复出现的固定译法 ──────────
+#let constitutive_principles() = text(style: "italic", font: "SimHei")[构成性原则];
+#let constitutive_a_priori() = text(style: "italic", font: "SimHei")[构成性先天];
+#let regulative_principles() = text(style: "italic", font: "SimHei")[调节性原则];
+#let coordinating_principles() = text(style: "italic", font: "SimHei")[协调原则];
+#let paradigm() = text(style: "italic", font: "SimHei")[范式];
+#let paradigm_shift() = text(style: "italic", font: "SimHei")[范式转换];
+#let incommensurability() = text(style: "italic", font: "SimHei")[不可通约性];
+#let conventionalism() = text(style: "italic", font: "SimHei")[约定论];
+#let holism() = text(style: "italic", font: "SimHei")[整体论];
+#let naturalism() = text(style: "italic", font: "SimHei")[自然主义];
+#let analytic_synthetic_distinction() = text(style: "italic", font: "SimHei")[分析／综合区分];
+#let linguistic_framework() = text(style: "italic", font: "SimHei")[语言框架];
+#let principle_of_tolerance() = text(style: "italic", font: "SimHei")[宽容原则];
+#let normal_science() = text(style: "italic", font: "SimHei")[常规科学];
+#let scientific_revolution() = text(style: "italic", font: "SimHei")[科学革命];
+#let meta_framework() = text(style: "italic", font: "SimHei")[元框架];
+
+// 以下为无需特定格式的固定译法（补充）
+#let meta_scientific() = [元科学的];
+#let meta_scientific_level() = [元科学层面];
+#let wissenschaftslogik() = [科学逻辑];
+#let sociology_of_scientific_knowledge() = [科学知识社会学];
+#let logic_of_science() = [科学逻辑];

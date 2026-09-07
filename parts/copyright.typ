@@ -13,7 +13,7 @@ p. cm.
 
 Includes bibliographical references and index.
 
-ISBN 1-57586-291-3 (alk. paper)-ISBN 1-57586-292-1 (pbk.: alk. paper)
+ISBN 1-57586-291-3 (alk. paper) — ISBN 1-57586-292-1 (pbk.: alk. paper)
 
 1. Science-Philosophy. I. Title
 
