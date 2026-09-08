@@ -1,6 +1,9 @@
 #import "glossary.typ": *   // 导入所有定义
 #import "common.typ": *   // 导入所有定义
-
+#set document(
+  title: [#dynamics_of_reason()],
+  author: raw_michael_friedman()
+)
 #set text(font: ("Libertinus Serif", "SimSun", "Microsoft YaHei"), lang: "zh")// todo SimSun和Noto Serif SC选哪个？
 #show emph: it => {
   text(font: ("Libertinus Serif", "KaiTi"), style: "italic", it.body)
@@ -10,6 +13,9 @@
 }
 
 #show heading.where(level: 1): it => {
+  if target() == "html" {
+    return it
+  }
   item-cnt.update(0)
   pagebreak(weak: true)
   v(2em)
@@ -20,6 +26,9 @@
   v(1em)
 }
 #show heading.where(level: 2): it => {
+  if target() == "html" {
+    return it
+  }
   item-cnt.update(0)
   align(center)[
     #set text(font: ("Libertinus Serif", "SIMHEI"), size: 16pt, weight: "bold")

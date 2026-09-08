@@ -15,3 +15,12 @@
 （如 `#kant()`、`#relativized_a_priori()`），以保证译名与格式全书一致。
 
 ## 目录结构
+
+## 编译输出
+### 输出完整pdf
+### 输出无译注pdf
+typst c main.typ --input show-tns=false
+### 输出html
+typst c main.typ --features=html -f=html
+### 将html转为epub
+pandoc main.html -t epub3  -o main.epub --shift-heading-level-by=-1 --split-level=2

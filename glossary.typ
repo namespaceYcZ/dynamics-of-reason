@@ -1,5 +1,6 @@
 // 以下为人名，人名的出现必须有特定的格式要求
-#let michael_friedman() = underline(text(style: "italic", font: "KaiTi")[迈克尔·弗里德曼]);
+#let raw_michael_friedman() = "迈克尔·弗里德曼";
+#let michael_friedman() = underline(text(style: "italic", font: "KaiTi")[#raw_michael_friedman()]);
 #let friedman() = underline(text(style: "italic", font: "KaiTi")[弗里德曼]);
 #let immanuel_kant() = underline(text(style: "italic", font: "KaiTi")[伊曼努尔·康德]);
 #let kant() = underline(text(style: "italic", font: "KaiTi")[康德]);
