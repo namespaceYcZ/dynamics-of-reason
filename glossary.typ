@@ -66,7 +66,7 @@
 #let logical_empiricists() = text(style: "italic", font: "SimHei")[逻辑经验主义者];
 #let transcendental_logic() = text(style: "italic", font: "SimHei")[先验逻辑];
 #let transcendental_philosophy() = text(style: "italic", font: "SimHei")[先验哲学];
-#let transcendental_idealism() = text(style: "italic", font: "SimHei")[先验唯心论];
+#let transcendental_idealism() = text(style: "italic", font: "SimHei")[先验观念论];
 #let a_priori_forms() = text(style: "italic", font: "SimHei")[先天形式];
 #let a_priori_forms_of_intuition() = text(style: "italic", font: "SimHei")[先天直观形式];
 #let a_priori_conditions_of_the_possibility_of_experience() = text(
